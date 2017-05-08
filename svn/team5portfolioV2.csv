@@ -1,0 +1,26 @@
+equity,27,ADP,2437.29,Automatic Data Processing, Inc.,NASDAQ100
+equity,77,CTSH,4657.73,Cognizant Technology Solutions Corporation,NASDAQ100
+equity,1,BMRN,89.16,BioMarin Pharmaceutical Inc.,NASDAQ100
+equity,2,AMAT,43.02,Applied Materials, Inc.,NASDAQ100
+cashacc,992771.7999999999,aaaaa
+cashacc,1.0,q
+transaction,CASHACCOUNT,aaaaa,0.0,2016/04/14 23:56:01
+transaction,CASHACCOUNT,aaaaa,-2437.29,2016/04/14 23:56:15
+transaction,CASHACCOUNT,q,0.0,2016/04/14 23:56:37
+transaction,CASHACCOUNT,aaaaa,-4657.7300000000005,2016/04/14 23:57:19
+transaction,CASHACCOUNT,aaaaa,-89.16,2016/04/14 23:57:53
+transaction,CASHACCOUNT,aaaaa,-43.02,2016/04/14 23:58:03
+transaction,EQUITY,Automatic Data Processing, Inc.,0.0,2016/04/14 23:56:15
+transaction,EQUITY,Cognizant Technology Solutions Corporation,0.0,2016/04/14 23:57:19
+transaction,EQUITY,BioMarin Pharmaceutical Inc.,0.0,2016/04/14 23:57:53
+transaction,EQUITY,Applied Materials, Inc.,0.0,2016/04/14 23:58:03
+watchlistItem,BMRN,4,5
+watchlistItem,ALXN,6,88
+watchlistItem,FOX,7,777777
+watchlistItem,ATVI,66666666,66666666666
+marketAverage,[TECHNOLOGY],0,33.33
+marketAverage,[HEALTH CARE],0,66.52
+marketAverage,[DOW],0,559.36
+marketAverage,[TRANSPORTATION],0,32.42
+marketAverage,[FINANCE],0,39.97
+marketAverage,[NASDAQ100],107,111.35

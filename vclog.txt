@@ -1,0 +1,2734 @@
+Revision: 293
+Author: bpk9701
+Date: Friday, April 15, 2016 3:51:11 AM
+Message:
+eq view change
+----
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+
+Revision: 292
+Author: bpk9701
+Date: Friday, April 15, 2016 3:31:38 AM
+Message:
+eq view change
+----
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+Modified : /trunk/encryptedAccounts
+
+Revision: 291
+Author: bpk9701
+Date: Friday, April 15, 2016 3:27:58 AM
+Message:
+portfolio import fix
+----
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+
+Revision: 290
+Author: bpk9701
+Date: Friday, April 15, 2016 3:12:33 AM
+Message:
+import update
+----
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+Modified : /trunk/svn/trunk/Control/UpdateEQ.java
+
+Revision: 289
+Author: dxd2791
+Date: Friday, April 15, 2016 3:03:03 AM
+Message:
+Fixed import
+----
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+
+Revision: 288
+Author: jtk7412
+Date: Friday, April 15, 2016 3:01:33 AM
+Message:
+Small name changes
+----
+Modified : /trunk/svn/trunk/View/WatchlistView.java
+
+Revision: 287
+Author: dxd2791
+Date: Friday, April 15, 2016 2:23:22 AM
+Message:
+Another attempt to fix import
+----
+Modified : /trunk/svn/trunk/Model/Equity.java
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+
+Revision: 286
+Author: dxd2791
+Date: Friday, April 15, 2016 2:06:52 AM
+Message:
+changed update interval button to just update button
+----
+Modified : /trunk/svn/trunk/View/FPTS.java
+
+Revision: 285
+Author: dxd2791
+Date: Friday, April 15, 2016 1:56:27 AM
+Message:
+attempted to fix import
+----
+Modified : /trunk/svn/trunk/Model/Equity.java
+
+Revision: 284
+Author: dxd2791
+Date: Friday, April 15, 2016 1:47:36 AM
+Message:
+Fixed watchlist bug
+----
+Modified : /trunk/svn/trunk/View/WatchlistView.java
+
+Revision: 283
+Author: dxd2791
+Date: Friday, April 15, 2016 1:39:39 AM
+Message:
+Implemented more visitor stuff
+----
+Modified : /trunk/svn/trunk/Model/Watchlist.java
+Modified : /trunk/svn/trunk/View/WatchlistView.java
+
+Revision: 282
+Author: dxd2791
+Date: Friday, April 15, 2016 1:32:08 AM
+Message:
+implement visitor stuff
+----
+Modified : /trunk/svn/trunk/Model/Watchlist.java
+Modified : /trunk/svn/trunk/Model/WatchlistVisitor.java
+
+Revision: 281
+Author: dxd2791
+Date: Friday, April 15, 2016 1:26:03 AM
+Message:
+fix import
+----
+Modified : /trunk/svn/trunk/Model/Equity.java
+
+Revision: 280
+Author: dxd2791
+Date: Friday, April 15, 2016 1:18:04 AM
+Message:
+Attempt at fixing import
+----
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+
+Revision: 279
+Author: dxd2791
+Date: Friday, April 15, 2016 12:56:35 AM
+Message:
+Export removes brackets
+----
+Modified : /trunk/svn/trunk/Model/Equity.java
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+
+Revision: 278
+Author: dxd2791
+Date: Friday, April 15, 2016 12:33:12 AM
+Message:
+Made update interval button
+----
+Modified : /trunk/svn/trunk/View/FPTS.java
+
+Revision: 277
+Author: dxd2791
+Date: Thursday, April 14, 2016 11:56:55 PM
+Message:
+Made second exported file
+----
+Added : /trunk/svn/team_5_part2
+
+Revision: 276
+Author: dxd2791
+Date: Thursday, April 14, 2016 11:51:55 PM
+Message:
+Made exported file
+----
+Added : /trunk/svn/team_5
+
+Revision: 275
+Author: dxd2791
+Date: Thursday, April 14, 2016 11:34:52 PM
+Message:
+Fixed ma name issue
+----
+Modified : /trunk/svn/trunk/Model/Equity.java
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+
+Revision: 274
+Author: dxd2791
+Date: Thursday, April 14, 2016 11:19:41 PM
+Message:
+Import market averages
+----
+Modified : /trunk/svn/trunk/Model/Equity.java
+
+Revision: 273
+Author: dxd2791
+Date: Thursday, April 14, 2016 11:17:16 PM
+Message:
+Fixed import
+----
+Modified : /trunk/svn/trunk/Model/Equity.java
+
+Revision: 272
+Author: dxd2791
+Date: Thursday, April 14, 2016 11:08:04 PM
+Message:
+Import/export mas
+----
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+
+Revision: 271
+Author: dxd2791
+Date: Thursday, April 14, 2016 10:59:34 PM
+Message:
+Fixed import bug
+----
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+Modified : /trunk/svn/trunk/View/FPTS.java
+Modified : /trunk/svn/trunk/Model/Watchlist.java
+
+Revision: 270
+Author: ars2201
+Date: Thursday, April 14, 2016 10:57:34 PM
+Message:
+put handleCommand back in
+----
+Modified : /trunk/svn/trunk/Model/UndoAction.java
+
+Revision: 269
+Author: jtk7412
+Date: Thursday, April 14, 2016 10:52:08 PM
+Message:
+Changed exporting style slightly 
+----
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+
+Revision: 268
+Author: ars2201
+Date: Thursday, April 14, 2016 10:51:03 PM
+Message:
+changed accept to visit
+----
+Modified : /trunk/svn/trunk/Model/Watchlist.java
+
+Revision: 267
+Author: bpk9701
+Date: Thursday, April 14, 2016 10:49:03 PM
+Message:
+history object update
+----
+Modified : /trunk/svn/trunk/Model/Equity.java
+Modified : /trunk/svn/trunk/Model/CashAccount.java
+Modified : /trunk/svn/trunk/Control/UpdateEQ.java
+Modified : /trunk/encryptedAccounts
+
+Revision: 266
+Author: sxc7870
+Date: Thursday, April 14, 2016 10:47:21 PM
+Message:
+Command pattern
+----
+Added : /trunk/svn/trunk/Model/handleCommand.java
+
+Revision: 265
+Author: sxc7870
+Date: Thursday, April 14, 2016 10:46:48 PM
+Message:
+Visitor pattern 
+----
+Added : /trunk/svn/trunk/Model/WatchlistVisitor.java
+
+Revision: 264
+Author: sxc7870
+Date: Thursday, April 14, 2016 10:24:16 PM
+Message:
+Added some implementation for visitor pattern
+----
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+Modified : /trunk/svn/trunk/Model/Watchlist.java
+Modified : /trunk/svn/trunk/View/WatchlistView.java
+
+Revision: 263
+Author: bpk9701
+Date: Thursday, April 14, 2016 10:16:47 PM
+Message:
+yahoo initial auto pop
+----
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+Modified : /trunk/svn/trunk/View/FPTS.java
+
+Revision: 262
+Author: dxd2791
+Date: Thursday, April 14, 2016 10:10:39 PM
+Message:
+Did something
+----
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+
+Revision: 261
+Author: dxd2791
+Date: Thursday, April 14, 2016 10:09:00 PM
+Message:
+Did update thing
+----
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+
+Revision: 260
+Author: dxd2791
+Date: Thursday, April 14, 2016 10:06:20 PM
+Message:
+Did watchlist thing
+----
+Modified : /trunk/svn/trunk/Model/Watchlist.java
+
+Revision: 259
+Author: dxd2791
+Date: Thursday, April 14, 2016 9:55:35 PM
+Message:
+Market averages can be saved
+----
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+Modified : /trunk/svn/trunk/View/FPTS.java
+
+Revision: 258
+Author: bpk9701
+Date: Thursday, April 14, 2016 9:47:19 PM
+Message:
+yahoo update
+----
+Modified : /trunk/svn/trunk/Model/Equity.java
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+Modified : /trunk/svn/trunk/View/FPTS.java
+Modified : /trunk/svn/trunk/Control/UpdateEQ.java
+Modified : /trunk/svn/trunk/Control/YahooGET.java
+Modified : /trunk/svn/trunk/Control/YahooParse.java
+
+Revision: 257
+Author: dxd2791
+Date: Thursday, April 14, 2016 9:36:47 PM
+Message:
+Made reset button
+----
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+Modified : /trunk/svn/trunk/Model/Watchlist.java
+Modified : /trunk/svn/trunk/View/WatchlistView.java
+
+Revision: 256
+Author: dxd2791
+Date: Thursday, April 14, 2016 9:15:09 PM
+Message:
+Made import thing at registration into radio buttons
+----
+Modified : /trunk/svn/trunk/View/FPTS.java
+
+Revision: 255
+Author: ars2201
+Date: Thursday, April 14, 2016 9:06:15 PM
+Message:
+Watchlist error messages now display correctly
+----
+Modified : /trunk/svn/trunk/View/WatchlistView.java
+
+Revision: 254
+Author: dxd2791
+Date: Thursday, April 14, 2016 9:03:12 PM
+Message:
+Changed comparison sign
+----
+Modified : /trunk/svn/trunk/View/WatchlistView.java
+
+Revision: 253
+Author: dxd2791
+Date: Thursday, April 14, 2016 9:00:32 PM
+Message:
+Did watchlist thing
+----
+Modified : /trunk/svn/trunk/View/WatchlistView.java
+
+Revision: 252
+Author: dxd2791
+Date: Thursday, April 14, 2016 8:55:17 PM
+Message:
+Did watchlist thing
+----
+Modified : /trunk/svn/trunk/View/WatchlistView.java
+
+Revision: 251
+Author: ars2201
+Date: Thursday, April 14, 2016 8:54:58 PM
+Message:
+Fixed withdraw variable naming and error message display
+----
+Modified : /trunk/svn/trunk/View/CAView.java
+
+Revision: 250
+Author: dxd2791
+Date: Thursday, April 14, 2016 8:49:08 PM
+Message:
+Did withdrawal thing
+----
+Modified : /trunk/svn/trunk/View/CAView.java
+
+Revision: 249
+Author: ars2201
+Date: Thursday, April 14, 2016 8:42:30 PM
+Message:
+Fixed some wording with deposit and withdrawal
+----
+Modified : /trunk/svn/trunk/View/CAView.java
+
+Revision: 248
+Author: dxd2791
+Date: Thursday, April 14, 2016 8:40:06 PM
+Message:
+Withdrawal/Deposit done and fixed some watchlist bugs
+----
+Modified : /trunk/svn/trunk/View/CAView.java
+Modified : /trunk/svn/trunk/View/WatchlistView.java
+
+Revision: 247
+Author: zps6796
+Date: Thursday, April 14, 2016 8:28:22 PM
+Message:
+Simulation can be run step by step with skip to last step button and graphs are linear instead of exponential
+----
+Modified : /trunk/svn/trunk/Control/BearMarket.java
+Modified : /trunk/svn/trunk/View/simulationView.java
+Modified : /trunk/svn/trunk/Control/BullMarket.java
+
+Revision: 246
+Author: ars2201
+Date: Thursday, April 14, 2016 8:21:34 PM
+Message:
+partial code for depositing and withdrawing from cash accounts
+----
+Modified : /trunk/svn/trunk/View/CAView.java
+
+Revision: 245
+Author: dxd2791
+Date: Thursday, April 14, 2016 8:18:55 PM
+Message:
+Fixed stuff
+----
+Modified : /trunk/svn/trunk/Model/Equity.java
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+Modified : /trunk/svn/trunk/View/WatchlistView.java
+
+Revision: 244
+Author: dxd2791
+Date: Thursday, April 14, 2016 8:13:47 PM
+Message:
+Fixed add trigger buttons again
+----
+Modified : /trunk/svn/trunk/View/WatchlistView.java
+
+Revision: 243
+Author: dxd2791
+Date: Thursday, April 14, 2016 8:08:47 PM
+Message:
+Fixed typo
+----
+Modified : /trunk/svn/trunk/View/WatchlistView.java
+
+Revision: 242
+Author: dxd2791
+Date: Thursday, April 14, 2016 8:07:29 PM
+Message:
+Fixed add trigger buttons
+----
+Modified : /trunk/svn/trunk/View/WatchlistView.java
+
+Revision: 241
+Author: zps6796
+Date: Thursday, April 14, 2016 8:04:41 PM
+Message:
+Simulation can be run step by step
+----
+Modified : /trunk/svn/trunk/View/simulationView.java
+
+Revision: 240
+Author: dxd2791
+Date: Thursday, April 14, 2016 8:03:06 PM
+Message:
+Did watchlist thing
+----
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+Modified : /trunk/svn/trunk/Model/Watchlist.java
+Modified : /trunk/svn/trunk/View/WatchlistView.java
+
+Revision: 239
+Author: dxd2791
+Date: Thursday, April 14, 2016 7:52:02 PM
+Message:
+Able to add shares to MA
+----
+Modified : /trunk/svn/trunk/Model/Equity.java
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+Modified : /trunk/svn/trunk/View/WatchlistView.java
+
+Revision: 238
+Author: bpk9701
+Date: Thursday, April 14, 2016 7:22:00 PM
+Message:
+fixed ticker symbol
+----
+Modified : /trunk/svn/trunk/Model/Equity.java
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+Modified : /trunk/svn/trunk/View/FPTS.java
+Modified : /trunk/svn/trunk/Control/UpdateEQ.java
+Modified : /trunk/svn/trunk/Control/YahooGET.java
+Modified : /trunk/svn/trunk/Control/YahooParse.java
+
+Revision: 237
+Author: dxd2791
+Date: Thursday, April 14, 2016 7:00:09 PM
+Message:
+Import/export works with watchlist
+----
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+
+Revision: 236
+Author: dxd2791
+Date: Thursday, April 14, 2016 6:52:55 PM
+Message:
+Did compare thing for watchlist
+----
+Modified : /trunk/svn/trunk/View/FPTS.java
+Modified : /trunk/svn/trunk/Model/Watchlist.java
+Modified : /trunk/svn/trunk/View/WatchlistView.java
+
+Revision: 235
+Author: zps6796
+Date: Thursday, April 14, 2016 6:50:25 PM
+Message:
+Minor changes to simulation controllers
+----
+Modified : /trunk/encryptedAccounts
+Modified : /trunk/svn/trunk/Control/BearMarket.java
+
+Revision: 234
+Author: dxd2791
+Date: Thursday, April 14, 2016 6:06:11 PM
+Message:
+Basic parts of watchlist
+----
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+Modified : /trunk/svn/trunk/Model/UndoAction.java
+Added : /trunk/svn/trunk/Model/Watchlist.java
+Modified : /trunk/svn/trunk/View/WatchlistView.java
+
+Revision: 233
+Author: dxd2791
+Date: Thursday, April 14, 2016 5:36:04 PM
+Message:
+fixed initial equities import
+----
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+
+Revision: 232
+Author: ars2201
+Date: Thursday, April 14, 2016 5:35:25 PM
+Message:
+Put brackets back in for market averages because it fixes bug with them appearing incorrectly in table
+----
+Modified : /trunk/svn/trunk/Model/Equity.java
+
+Revision: 231
+Author: sxc7870
+Date: Thursday, April 14, 2016 5:27:36 PM
+Message:
+Made UndoAction into more of a command pattern
+----
+Modified : /trunk/svn/trunk/Model/UndoAction.java
+
+Revision: 230
+Author: dxd2791
+Date: Thursday, April 14, 2016 5:00:45 PM
+Message:
+Fixed bugs 4 and 6 from checklist on trello
+----
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+Modified : /trunk/svn/trunk/View/FPTS.java
+
+Revision: 229
+Author: dxd2791
+Date: Tuesday, April 12, 2016 11:32:48 PM
+Message:
+initial equities file
+----
+Added : /trunk/svn/equities.csv
+
+Revision: 228
+Author: dxd2791
+Date: Tuesday, April 12, 2016 11:25:10 PM
+Message:
+Fixed adding shares bug
+----
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+
+Revision: 227
+Author: dxd2791
+Date: Tuesday, April 12, 2016 11:05:27 PM
+Message:
+Fixed adding shares bug
+----
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+
+Revision: 226
+Author: dxd2791
+Date: Tuesday, April 12, 2016 10:54:22 PM
+Message:
+fixed other bugs
+----
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+
+Revision: 225
+Author: dxd2791
+Date: Tuesday, April 12, 2016 10:43:05 PM
+Message:
+Initial equities file (very nearly done) and fixed other bugs
+----
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+Modified : /trunk/svn/trunk/View/transactionView.java
+
+Revision: 224
+Author: dxd2791
+Date: Tuesday, April 12, 2016 10:32:16 PM
+Message:
+Fixing bugs
+----
+Modified : /trunk/svn/trunk/Model/Equity.java
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+Modified : /trunk/svn/trunk/Model/History.java
+Modified : /trunk/svn/trunk/View/transactionView.java
+
+Revision: 223
+Author: dxd2791
+Date: Tuesday, April 12, 2016 7:38:08 PM
+Message:
+Import/export thing updated
+----
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+Modified : /trunk/svn/myfile
+
+Revision: 222
+Author: jtk7412
+Date: Tuesday, April 12, 2016 7:24:43 PM
+Message:
+added other teams export file
+
+----
+Added : /trunk/svn/Team6portfolio.csv
+
+Revision: 221
+Author: dxd2791
+Date: Tuesday, April 12, 2016 6:35:42 PM
+Message:
+Transaction history has date and ammount transferred thing
+----
+Modified : /trunk/svn/trunk/Model/Equity.java
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+Modified : /trunk/svn/trunk/Model/CashAccount.java
+Modified : /trunk/svn/trunk/Model/History.java
+Modified : /trunk/svn/trunk/View/transactionView.java
+
+Revision: 220
+Author: dxd2791
+Date: Tuesday, April 12, 2016 4:55:54 PM
+Message:
+Made market average chart thing and removed unused functions from UndoAction
+----
+Modified : /trunk/svn/trunk/Model/Equity.java
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+Modified : /trunk/svn/trunk/Model/UndoAction.java
+Modified : /trunk/svn/trunk/View/CAView.java
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+
+Revision: 219
+Author: dxd2791
+Date: Tuesday, April 12, 2016 4:26:59 PM
+Message:
+Fixed undo error with transfer
+----
+Modified : /trunk/svn/trunk/Model/UndoAction.java
+Modified : /trunk/svn/trunk/View/FPTS.java
+
+Revision: 218
+Author: sxc7870
+Date: Tuesday, April 12, 2016 12:10:41 AM
+Message:
+Added iterator so UndoAction
+----
+Modified : /trunk/svn/trunk/Model/UndoAction.java
+Modified : /trunk/svn/trunk/View/FPTS.java
+Modified : /trunk/svn/trunk/Model/CashAccount.java
+
+Revision: 217
+Author: bpk9701
+Date: Sunday, April 10, 2016 6:37:48 PM
+Message:
+yahoo v1
+----
+Modified : /trunk/svn/trunk/Model/Equity.java
+Modified : /trunk/svn/trunk/Model/UndoAction.java
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+Added : /trunk/svn/trunk/Control/UpdateEQ.java
+Added : /trunk/svn/trunk/Control/YahooGET.java
+Added : /trunk/svn/trunk/Control/YahooParse.java
+Modified : /trunk/encryptedAccounts
+
+Revision: 216
+Author: dxd2791
+Date: Sunday, April 10, 2016 5:27:10 PM
+Message:
+Can import portfolio in registration/ also fixed saving bug found in transaction history again
+----
+Modified : /trunk/svn/trunk/View/FPTS.java
+Modified : /trunk/svn/trunk/View/transactionView.java
+
+Revision: 215
+Author: dxd2791
+Date: Sunday, April 10, 2016 4:57:07 PM
+Message:
+Import equities work with example file and file given by team/ also fixed saving bug found in transaction history
+----
+Modified : /trunk/svn/trunk/Model/Equity.java
+Modified : /trunk/svn/trunk/View/transactionView.java
+
+Revision: 214
+Author: dxd2791
+Date: Sunday, April 10, 2016 4:29:30 PM
+Message:
+Import portfolio works with equities
+----
+Modified : /trunk/svn/trunk/Model/Equity.java
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+
+Revision: 213
+Author: dxd2791
+Date: Sunday, April 10, 2016 4:16:49 PM
+Message:
+Import portfolio works with transaction history and CAs, also import/export history modified to meet standards of importing portfolio
+----
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+Modified : /trunk/svn/trunk/View/FPTS.java
+Modified : /trunk/svn/trunk/Model/History.java
+Modified : /trunk/svn/myfile
+Modified : /trunk/svn/Hello.txt
+Added : /trunk/svn/META-INF
+Added : /trunk/svn/META-INF/MANIFEST.MF
+
+Revision: 212
+Author: jtk7412
+Date: Sunday, April 10, 2016 4:00:24 PM
+Message:
+Changed export format a little and added sample portfolio file
+----
+Modified : /trunk/svn/trunk/Model/Equity.java
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+Added : /trunk/svn/exported Portfolio Info
+
+Revision: 211
+Author: ars2201
+Date: Sunday, April 10, 2016 3:40:18 PM
+Message:
+Adding shares now subtracts money from cash accounts instead of adding...
+----
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+
+Revision: 210
+Author: dxd2791
+Date: Sunday, April 10, 2016 3:28:39 PM
+Message:
+Removed brackets from MAs that are displayed
+----
+Modified : /trunk/svn/trunk/Model/Equity.java
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+
+Revision: 209
+Author: ars2201
+Date: Sunday, April 10, 2016 3:26:08 PM
+Message:
+Added comments explaining the two equity lists
+----
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+
+Revision: 208
+Author: ars2201
+Date: Sunday, April 10, 2016 3:25:16 PM
+Message:
+add equity adds to both available and owned
+----
+Modified : /trunk/svn/trunk/Model/Equity.java
+
+Revision: 207
+Author: jtk7412
+Date: Sunday, April 10, 2016 11:57:26 AM
+Message:
+added transactions in exporting portfolio 
+----
+Modified : /trunk/svn/trunk/Model/Equity.java
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+Modified : /trunk/svn/trunk/View/FPTS.java
+
+Revision: 206
+Author: ars2201
+Date: Saturday, April 09, 2016 3:55:08 PM
+Message:
+Fixed undo for cash account; fixed undo involving market averages
+----
+Modified : /trunk/svn/trunk/Model/UndoAction.java
+
+Revision: 205
+Author: dxd2791
+Date: Saturday, April 09, 2016 3:38:29 PM
+Message:
+Fixed importing same file
+----
+Modified : /trunk/svn/trunk/Model/CashAccount.java
+
+Revision: 204
+Author: ars2201
+Date: Saturday, April 09, 2016 3:14:38 PM
+Message:
+Part way there to importing cash accounts checking for existing accounts; currently only adds last line of file
+----
+Modified : /trunk/svn/trunk/View/CAView.java
+Modified : /trunk/svn/trunk/Model/CashAccount.java
+
+Revision: 203
+Author: dxd2791
+Date: Saturday, April 09, 2016 3:10:27 PM
+Message:
+Able to undo/redo import
+----
+Modified : /trunk/svn/trunk/Model/UndoAction.java
+Modified : /trunk/svn/trunk/View/CAView.java
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+
+Revision: 202
+Author: ars2201
+Date: Saturday, April 09, 2016 2:44:45 PM
+Message:
+got rid of print lines
+----
+Modified : /trunk/svn/trunk/Model/CashAccount.java
+
+Revision: 201
+Author: dxd2791
+Date: Saturday, April 09, 2016 2:40:52 PM
+Message:
+Able to undo and redo transferring funds
+----
+Modified : /trunk/svn/trunk/Model/UndoAction.java
+Modified : /trunk/svn/trunk/View/CAView.java
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+Modified : /trunk/svn/trunk/View/FPTS.java
+Modified : /trunk/svn/trunk/Model/CashAccount.java
+
+Revision: 200
+Author: ars2201
+Date: Saturday, April 09, 2016 2:36:39 PM
+Message:
+Fixed removeEquity and sellShares with the addition of Market Averages
+----
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+
+Revision: 199
+Author: ars2201
+Date: Saturday, April 09, 2016 2:24:18 PM
+Message:
+DOW calculated correctly I think
+----
+Modified : /trunk/svn/trunk/Model/Equity.java
+
+Revision: 198
+Author: ars2201
+Date: Saturday, April 09, 2016 2:02:12 PM
+Message:
+Fixed add shares for market averages; code was there before but disappeared
+----
+Modified : /trunk/svn/trunk/Model/Equity.java
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+
+Revision: 197
+Author: dxd2791
+Date: Saturday, April 09, 2016 1:51:48 PM
+Message:
+Fixed adding shares
+----
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+
+Revision: 196
+Author: ars2201
+Date: Saturday, April 09, 2016 1:45:47 PM
+Message:
+Added market averages; currently does not differentiate between averages and sectors so a bit WIP
+----
+Modified : /trunk/svn/trunk/Model/Equity.java
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+
+Revision: 195
+Author: dxd2791
+Date: Thursday, April 07, 2016 7:31:13 PM
+Message:
+Able to undo removing equities
+----
+Modified : /trunk/svn/trunk/Model/UndoAction.java
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+
+Revision: 194
+Author: jtk7412
+Date: Thursday, April 07, 2016 7:30:18 PM
+Message:
+added exporting portfolio (equities & cash accounts)
+----
+Modified : /trunk/svn/trunk/Model/Equity.java
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+Modified : /trunk/svn/trunk/View/FPTS.java
+Modified : /trunk/svn/trunk/Model/CashAccount.java
+Modified : /trunk/svn/trunk/View/WatchlistView.java
+Modified : /trunk/svn/trunk/Control/BearMarket.java
+Modified : /trunk/svn/trunk/Control/BullMarket.java
+Modified : /trunk/svn/trunk/Control/NoGrowth.java
+
+Revision: 193
+Author: dxd2791
+Date: Thursday, April 07, 2016 7:08:15 PM
+Message:
+Able to undo adding equities and cash accounts and removing cash accounts
+----
+Modified : /trunk/svn/trunk/Model/UndoAction.java
+Modified : /trunk/svn/trunk/View/CAView.java
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+Modified : /trunk/svn/trunk/View/FPTS.java
+
+Revision: 192
+Author: dxd2791
+Date: Thursday, April 07, 2016 6:25:07 PM
+Message:
+Modified undo
+----
+Modified : /trunk/svn/trunk/Model/CashAccount.java
+Modified : /trunk/svn/trunk/Model/UndoAction.java
+Modified : /trunk/svn/trunk/View/CAView.java
+Modified : /trunk/svn/trunk/View/FPTS.java
+
+Revision: 191
+Author: sxc7870
+Date: Thursday, April 07, 2016 6:06:56 PM
+Message:
+Working on transfer
+----
+Modified : /trunk/svn/trunk
+Modified : /trunk/svn/trunk/Model/CashAccount.java
+Modified : /trunk/svn/trunk/Model/UndoAction.java
+Modified : /trunk/svn/trunk/View/CAView.java
+
+Revision: 190
+Author: sxc7870
+Date: Thursday, April 07, 2016 5:38:52 PM
+Message:
+Testing
+----
+Added : /trunk/svn/trunk/Model/UndoAction.java
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+Modified : /trunk/svn/trunk/View/FPTS.java
+
+Revision: 189
+Author: dxd2791
+Date: Thursday, April 07, 2016 5:26:44 PM
+Message:
+Refactored searching through equities code
+----
+Modified : /trunk/svn/trunk/Model/Equity.java
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+
+Revision: 188
+Author: dxd2791
+Date: Thursday, April 07, 2016 5:14:19 PM
+Message:
+Fixed remove equity bug
+----
+Modified : /trunk/svn/trunk/Model/Equity.java
+
+Revision: 187
+Author: jtk7412
+Date: Thursday, April 07, 2016 5:11:12 PM
+Message:
+added things for exporting 
+----
+Modified : /trunk/svn/trunk/Model/Equity.java
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+Modified : /trunk/svn/trunk/View/FPTS.java
+
+Revision: 186
+Author: dxd2791
+Date: Thursday, April 07, 2016 4:58:42 PM
+Message:
+Completed search functionality
+----
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+
+Revision: 185
+Author: sxc7870
+Date: Tuesday, April 05, 2016 9:08:18 PM
+Message:
+Started the undo class. Added some functionality for undoing adding a class. 
+----
+Added : /trunk/svn/trunk/home
+Added : /trunk/svn/trunk/home/teams
+Added : /trunk/svn/trunk/home/teams/262
+Added : /trunk/svn/trunk/home/teams/262/s262-01p1e
+Added : /trunk/svn/trunk/home/teams/262/s262-01p1e/svn
+Added : /trunk/svn/trunk/home/teams/262/s262-01p1e/svn/trunk
+
+Revision: 184
+Author: jtk7412
+Date: Tuesday, April 05, 2016 6:47:39 PM
+Message:
+Added spacers 
+----
+Modified : /trunk/svn/trunk/View/CAView.java
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+Modified : /trunk/svn/trunk/View/WatchlistView.java
+Modified : /trunk/svn/trunk/View/transactionView.java
+
+Revision: 183
+Author: jtk7412
+Date: Tuesday, April 05, 2016 6:33:10 PM
+Message:
+Added a watchlist View 
+----
+Modified : /trunk/encryptedAccounts
+Modified : /trunk/svn/trunk/View/FPTS.java
+Added : /trunk/svn/trunk/View/WatchlistView.java
+
+Revision: 182
+Author: dxd2791
+Date: Tuesday, April 05, 2016 6:27:19 PM
+Message:
+Ticker symbol and name filter fields work together
+----
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+
+Revision: 181
+Author: dxd2791
+Date: Tuesday, April 05, 2016 6:22:18 PM
+Message:
+Fixed market average bug
+----
+Modified : /trunk/svn/trunk/Model/Equity.java
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+
+Revision: 180
+Author: bpk9701
+Date: Tuesday, April 05, 2016 5:27:20 PM
+Message:
+transfer funds log pt 2
+----
+Modified : /trunk/svn/trunk/Model/CashAccount.java
+
+Revision: 179
+Author: bpk9701
+Date: Tuesday, April 05, 2016 5:25:53 PM
+Message:
+transfer funds log
+----
+Modified : /trunk/svn/trunk/Model/CashAccount.java
+
+Revision: 178
+Author: bpk9701
+Date: Tuesday, April 05, 2016 4:34:07 PM
+Message:
+cash account balance formatting
+----
+Modified : /trunk/svn/trunk/Model/CashAccount.java
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+
+Revision: 177
+Author: jtk7412
+Date: Sunday, April 03, 2016 4:38:03 PM
+Message:
+Changed table column sizes
+----
+Modified : /trunk/svn/trunk/View/CAView.java
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+Modified : /trunk/svn/trunk/View/transactionView.java
+
+Revision: 176
+Author: dxd2791
+Date: Sunday, April 03, 2016 4:27:11 PM
+Message:
+Fixed market average bug
+----
+Modified : /trunk/svn/trunk/Model/Equity.java
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+
+Revision: 175
+Author: dxd2791
+Date: Sunday, April 03, 2016 4:22:32 PM
+Message:
+Multiple search things (WIP)
+----
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+
+Revision: 174
+Author: ars2201
+Date: Sunday, April 03, 2016 4:10:08 PM
+Message:
+got rid of redundant code
+----
+Modified : /trunk/svn/trunk/Model/CashAccount.java
+
+Revision: 173
+Author: ars2201
+Date: Sunday, April 03, 2016 4:00:54 PM
+Message:
+Can no longer add negative amount if names of cash accounts match
+----
+Modified : /trunk/svn/trunk/View/CAView.java
+
+Revision: 172
+Author: ars2201
+Date: Sunday, April 03, 2016 3:58:05 PM
+Message:
+Fixed ability to add negative amount of cash
+----
+Modified : /trunk/svn/trunk/View/CAView.java
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+
+Revision: 171
+Author: dxd2791
+Date: Sunday, April 03, 2016 3:34:54 PM
+Message:
+Fixed errors
+----
+Modified : /trunk/svn/trunk/Model/Equity.java
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+
+Revision: 170
+Author: dxd2791
+Date: Sunday, April 03, 2016 3:31:25 PM
+Message:
+Refactoring
+----
+Modified : /trunk/svn/trunk/Model/CashAccount.java
+Modified : /trunk/svn/trunk/Model/Equity.java
+Modified : /trunk/svn/trunk/Model/History.java
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+Modified : /trunk/svn/trunk/View/CAView.java
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+Modified : /trunk/svn/trunk/View/transactionView.java
+
+Revision: 169
+Author: jtk7412
+Date: Sunday, April 03, 2016 3:30:02 PM
+Message:
+Refactoring 
+----
+Modified : /trunk/svn/trunk/Model/CashAccount.java
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+
+Revision: 168
+Author: ars2201
+Date: Sunday, April 03, 2016 3:23:10 PM
+Message:
+Cleaned up add account dialog boxes, fixed box not going away when account
+names match
+----
+Modified : /trunk/svn/trunk/View/CAView.java
+
+Revision: 167
+Author: jtk7412
+Date: Sunday, April 03, 2016 3:18:47 PM
+Message:
+Refactored sector to market average
+----
+Modified : /trunk/svn/trunk/Model/Equity.java
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+
+Revision: 166
+Author: ars2201
+Date: Sunday, April 03, 2016 3:05:51 PM
+Message:
+Changed logout dialog
+----
+Modified : /trunk/svn/trunk/View/FPTS.java
+
+Revision: 165
+Author: ars2201
+Date: Sunday, April 03, 2016 3:01:48 PM
+Message:
+Cash Account csv files are now stripped of quotes
+----
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+
+Revision: 164
+Author: dxd2791
+Date: Sunday, April 03, 2016 2:56:09 PM
+Message:
+Fixed labeling for search equities thing
+----
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+
+Revision: 163
+Author: jtk7412
+Date: Sunday, April 03, 2016 2:53:10 PM
+Message:
+GUI things
+----
+Modified : /trunk/svn/trunk/View/CAView.java
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+Modified : /trunk/svn/trunk/View/FPTS.java
+Modified : /trunk/svn/trunk/View/simulationView.java
+Modified : /trunk/svn/trunk/View/transactionView.java
+
+Revision: 162
+Author: dxd2791
+Date: Sunday, April 03, 2016 2:51:20 PM
+Message:
+Adding equities and shares interact with cash accounts
+----
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+
+Revision: 161
+Author: dxd2791
+Date: Sunday, April 03, 2016 2:43:19 PM
+Message:
+Fixed saving bug for cash accounts and selling shares should interact with cash accounts
+----
+Modified : /trunk/svn/trunk/View/CAView.java
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+
+Revision: 160
+Author: dxd2791
+Date: Sunday, April 03, 2016 2:30:47 PM
+Message:
+Cancelling remove equities no longer brings up second window
+----
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+
+Revision: 159
+Author: ars2201
+Date: Sunday, April 03, 2016 2:26:50 PM
+Message:
+fixed ability to add negative shares in add shares and add equity
+----
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+
+Revision: 158
+Author: jtk7412
+Date: Sunday, April 03, 2016 2:20:36 PM
+Message:
+Resized window, added buttons, and a label for the search bar in equities
+----
+Modified : /trunk/svn/trunk/View/CAView.java
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+Modified : /trunk/svn/trunk/View/FPTS.java
+Modified : /trunk/svn/trunk/View/simulationView.java
+Modified : /trunk/svn/trunk/View/transactionView.java
+
+Revision: 157
+Author: dxd2791
+Date: Sunday, April 03, 2016 2:09:43 PM
+Message:
+Made names of methods more consistent
+----
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+Modified : /trunk/svn/trunk/View/CAView.java
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+Modified : /trunk/svn/trunk/View/transactionView.java
+
+Revision: 156
+Author: dxd2791
+Date: Sunday, April 03, 2016 2:05:13 PM
+Message:
+Transaction history works with selling shares
+----
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+
+Revision: 155
+Author: dxd2791
+Date: Sunday, April 03, 2016 2:02:44 PM
+Message:
+Made sell shares button
+----
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+
+Revision: 154
+Author: dxd2791
+Date: Sunday, April 03, 2016 1:50:48 PM
+Message:
+Made add shares button
+----
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+
+Revision: 153
+Author: jtk7412
+Date: Saturday, April 02, 2016 3:46:56 PM
+Message:
+Added import and export portfolio buttons 
+----
+Modified : /trunk/svn/trunk/View/CAView.java
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+Modified : /trunk/svn/trunk/View/FPTS.java
+Modified : /trunk/svn/trunk/View/simulationView.java
+Modified : /trunk/svn/trunk/View/transactionView.java
+
+Revision: 152
+Author: sxc7870
+Date: Saturday, April 02, 2016 3:32:56 PM
+Message:
+Password encryption now available with an encryptedAccounts file that stores them. 
+----
+Added : /trunk/encryptedAccounts
+Modified : /trunk/svn/trunk/View/FPTS.java
+
+Revision: 151
+Author: jtk7412
+Date: Saturday, April 02, 2016 3:29:03 PM
+Message:
+Changed GUI 
+----
+Modified : /trunk/svn/trunk/View/CAView.java
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+Modified : /trunk/svn/trunk/View/FPTS.java
+Modified : /trunk/svn/trunk/View/simulationView.java
+Modified : /trunk/svn/trunk/View/transactionView.java
+
+Revision: 150
+Author: ars2201
+Date: Saturday, April 02, 2016 2:43:41 PM
+Message:
+deleting portfolio by command line finished
+----
+Modified : /trunk/svn/trunk/View/FPTS.java
+
+Revision: 149
+Author: dxd2791
+Date: Saturday, April 02, 2016 2:33:51 PM
+Message:
+Did equity thing
+----
+Modified : /trunk/svn/trunk/Control/BearMarket.java
+Modified : /trunk/svn/trunk/Control/BullMarket.java
+Modified : /trunk/svn/trunk/Control/NoGrowth.java
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+Modified : /trunk/svn/trunk/View/FPTS.java
+Modified : /trunk/svn/trunk/View/simulationView.java
+
+Revision: 148
+Author: ars2201
+Date: Saturday, April 02, 2016 2:19:52 PM
+Message:
+committing partial code for deleting portfolio by command line; currently incomplete
+----
+Modified : /trunk/svn/trunk/View/FPTS.java
+
+Revision: 147
+Author: jtk7412
+Date: Saturday, April 02, 2016 2:06:45 PM
+Message:
+added new table for available equities 
+----
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+Modified : /trunk/svn/trunk/View/FPTS.java
+
+Revision: 146
+Author: ars2201
+Date: Saturday, April 02, 2016 1:34:14 PM
+Message:
+Cash account balance now shows in the table
+----
+Modified : /trunk/svn/trunk/Model/CashAccount.java
+
+Revision: 145
+Author: ars2201
+Date: Saturday, April 02, 2016 1:14:55 PM
+Message:
+Added stripping import text
+----
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+Modified : /trunk/svn/trunk/View/CAView.java
+
+Revision: 144
+Author: ars2201
+Date: Saturday, April 02, 2016 12:47:32 PM
+Message:
+Got rid of initAmount; possibly fixed transfer bug
+----
+Modified : /trunk/svn/trunk/Model/CashAccount.java
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+Modified : /trunk/svn/trunk/View/CAView.java
+
+Revision: 143
+Author: dxd2791
+Date: Friday, April 01, 2016 5:46:01 PM
+Message:
+Attempt to fix import errors
+----
+Deleted : /trunk/svn/BearMarket.java
+Deleted : /trunk/svn/BullMarket.java
+Deleted : /trunk/svn/CAView.java
+Deleted : /trunk/svn/CashAccount.java
+Deleted : /trunk/svn/EquitiesView.java
+Deleted : /trunk/svn/Equity.java
+Deleted : /trunk/svn/FTPS.java
+Deleted : /trunk/svn/FutureSimulation.java
+Deleted : /trunk/svn/History.java
+Deleted : /trunk/svn/HistoryInvoker.java
+Deleted : /trunk/svn/LogCAHistory.java
+Deleted : /trunk/svn/LogEquityHistory.java
+Deleted : /trunk/svn/LogHistory.java
+Deleted : /trunk/svn/NoGrowth.java
+Deleted : /trunk/svn/Portfolio.java
+Deleted : /trunk/svn/simulationView.java
+Deleted : /trunk/svn/transactionView.java
+Modified : /trunk/svn/trunk/Control/BearMarket.java
+Modified : /trunk/svn/trunk/Control/BullMarket.java
+Modified : /trunk/svn/trunk/Control/FutureSimulation.java
+Modified : /trunk/svn/trunk/Control/HistoryInvoker.java
+Modified : /trunk/svn/trunk/Control/NoGrowth.java
+Modified : /trunk/svn/trunk/Model/CashAccount.java
+Modified : /trunk/svn/trunk/Model/Equity.java
+Modified : /trunk/svn/trunk/Model/History.java
+Modified : /trunk/svn/trunk/Model/LogCAHistory.java
+Modified : /trunk/svn/trunk/Model/LogEquityHistory.java
+Modified : /trunk/svn/trunk/Model/LogHistory.java
+Modified : /trunk/svn/trunk/Model/Portfolio.java
+Modified : /trunk/svn/trunk/View/CAView.java
+Modified : /trunk/svn/trunk/View/EquitiesView.java
+Modified : /trunk/svn/trunk/View/FPTS.java
+Modified : /trunk/svn/trunk/View/simulationView.java
+Modified : /trunk/svn/trunk/View/transactionView.java
+
+Revision: 142
+Author: jtk7412
+Date: Friday, April 01, 2016 5:00:23 PM
+Message:
+Broke up classes into model view control 
+----
+Added : /trunk/svn/trunk/Control/BearMarket.java
+Added : /trunk/svn/trunk/Control/BullMarket.java
+Added : /trunk/svn/trunk/Control/FutureSimulation.java
+Added : /trunk/svn/trunk/Control/HistoryInvoker.java
+Added : /trunk/svn/trunk/Control/NoGrowth.java
+Added : /trunk/svn/trunk/Model/CashAccount.java
+Added : /trunk/svn/trunk/Model/Equity.java
+Added : /trunk/svn/trunk/Model/History.java
+Added : /trunk/svn/trunk/Model/LogCAHistory.java
+Added : /trunk/svn/trunk/Model/LogEquityHistory.java
+Added : /trunk/svn/trunk/Model/LogHistory.java
+Added : /trunk/svn/trunk/Model/Portfolio.java
+Added : /trunk/svn/trunk/View/CAView.java
+Added : /trunk/svn/trunk/View/EquitiesView.java
+Added : /trunk/svn/trunk/View/FPTS.java
+Added : /trunk/svn/trunk/View/simulationView.java
+Added : /trunk/svn/trunk/View/transactionView.java
+
+Revision: 141
+Author: ars2201
+Date: Friday, April 01, 2016 4:46:51 PM
+Message:
+Imports of equities default to 0 shares
+----
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 140
+Author: jtk7412
+Date: Friday, April 01, 2016 4:37:16 PM
+Message:
+Split the classes up into a model, view, control. As well as put everything into the trunk.
+----
+Added : /trunk/svn/trunk/Control
+Added : /trunk/svn/trunk/Model
+Added : /trunk/svn/trunk/View
+
+Revision: 139
+Author: jtk7412
+Date: Friday, April 01, 2016 4:10:38 PM
+Message:
+Current project, due to members loosing code.
+----
+Modified : /trunk/svn/BearMarket.java
+Modified : /trunk/svn/BullMarket.java
+Modified : /trunk/svn/CAView.java
+Modified : /trunk/svn/CashAccount.java
+Modified : /trunk/svn/EquitiesView.java
+Modified : /trunk/svn/Equity.java
+Modified : /trunk/svn/FTPS.java
+Modified : /trunk/svn/FutureSimulation.java
+Modified : /trunk/svn/History.java
+Modified : /trunk/svn/HistoryInvoker.java
+Modified : /trunk/svn/LogCAHistory.java
+Modified : /trunk/svn/LogEquityHistory.java
+Modified : /trunk/svn/LogHistory.java
+Modified : /trunk/svn/NoGrowth.java
+Modified : /trunk/svn/Portfolio.java
+Modified : /trunk/svn/simulationView.java
+Modified : /trunk/svn/transactionView.java
+
+Revision: 138
+Author: dxd2791
+Date: Friday, March 25, 2016 5:55:37 PM
+Message:
+moved code around
+----
+Added : /trunk/svn/CAView.java
+Added : /trunk/svn/EquitiesView.java
+Modified : /trunk/svn/FTPS.java
+Added : /trunk/svn/simulationView.java
+Added : /trunk/svn/transactionView.java
+
+Revision: 137
+Author: zps6796
+Date: Tuesday, March 15, 2016 1:07:53 PM
+Message:
+Removed test print statements.
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 136
+Author: zps6796
+Date: Tuesday, March 15, 2016 9:54:46 AM
+Message:
+Added back-end support for simulating individual equities.
+----
+Modified : /trunk/svn/BearMarket.java
+Modified : /trunk/svn/BullMarket.java
+Modified : /trunk/svn/FutureSimulation.java
+Modified : /trunk/svn/NoGrowth.java
+
+Revision: 135
+Author: zps6796
+Date: Tuesday, March 15, 2016 9:22:45 AM
+Message:
+Added a graph to the simulations page.
+----
+Modified : /trunk/svn/BearMarket.java
+Modified : /trunk/svn/BullMarket.java
+Modified : /trunk/svn/FTPS.java
+Modified : /trunk/svn/FutureSimulation.java
+Modified : /trunk/svn/NoGrowth.java
+
+Revision: 134
+Author: ars2201
+Date: Monday, March 14, 2016 3:35:45 AM
+Message:
+removed Admin.java
+----
+Deleted : /trunk/svn/Admin.java
+
+Revision: 133
+Author: ars2201
+Date: Monday, March 14, 2016 3:33:35 AM
+Message:
+Got rid of every reference to Admin.java
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 132
+Author: dxd2791
+Date: Monday, March 14, 2016 3:29:58 AM
+Message:
+a file
+----
+Modified : /trunk/svn/admins
+
+Revision: 131
+Author: dxd2791
+Date: Monday, March 14, 2016 3:27:45 AM
+Message:
+Fixed stuff
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 130
+Author: bpk9701
+Date: Monday, March 14, 2016 3:14:56 AM
+Message:
+comments
+----
+Modified : /trunk/svn/LogCAHistory.java
+Modified : /trunk/svn/LogEquityHistory.java
+Modified : /trunk/svn/LogHistory.java
+
+Revision: 129
+Author: bpk9701
+Date: Monday, March 14, 2016 3:09:00 AM
+Message:
+history documentation
+----
+Modified : /trunk/svn/History.java
+Modified : /trunk/svn/HistoryInvoker.java
+
+Revision: 128
+Author: ars2201
+Date: Monday, March 14, 2016 3:07:49 AM
+Message:
+removed commented out code on discarded admin class
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 127
+Author: ars2201
+Date: Monday, March 14, 2016 3:00:38 AM
+Message:
+Set-up for deleting a portfolio from the command line
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 126
+Author: ars2201
+Date: Monday, March 14, 2016 2:43:41 AM
+Message:
+Casting SIlist.getChildren as TextField so that they no longer appear as null
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 125
+Author: dxd2791
+Date: Monday, March 14, 2016 2:36:54 AM
+Message:
+Made some comments
+----
+Modified : /trunk/svn/FTPS.java
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 124
+Author: bpk9701
+Date: Monday, March 14, 2016 2:33:44 AM
+Message:
+more documentation
+----
+Modified : /trunk/svn/BearMarket.java
+Modified : /trunk/svn/BullMarket.java
+Modified : /trunk/svn/CashAccount.java
+Modified : /trunk/svn/Equity.java
+Modified : /trunk/svn/NoGrowth.java
+
+Revision: 123
+Author: bpk9701
+Date: Monday, March 14, 2016 2:18:56 AM
+Message:
+some commenting, code cleaning
+----
+Modified : /trunk/svn/BearMarket.java
+Modified : /trunk/svn/BullMarket.java
+Modified : /trunk/svn/CashAccount.java
+Modified : /trunk/svn/NoGrowth.java
+
+Revision: 122
+Author: dxd2791
+Date: Monday, March 14, 2016 2:03:21 AM
+Message:
+Fixed some bugs involving saving
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 121
+Author: dxd2791
+Date: Monday, March 14, 2016 1:58:58 AM
+Message:
+Added prompt text to filter field
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 120
+Author: dxd2791
+Date: Monday, March 14, 2016 1:45:18 AM
+Message:
+Complete same name of CA's thing
+----
+Modified : /trunk/svn/FTPS.java
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 119
+Author: dxd2791
+Date: Monday, March 14, 2016 1:14:37 AM
+Message:
+Completed transfer cash accounts
+----
+Modified : /trunk/svn/FTPS.java
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 118
+Author: dxd2791
+Date: Monday, March 14, 2016 12:44:53 AM
+Message:
+Fixed imports
+----
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 117
+Author: bpk9701
+Date: Monday, March 14, 2016 12:44:35 AM
+Message:
+simulation overlap error fixed
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 116
+Author: ars2201
+Date: Monday, March 14, 2016 12:31:16 AM
+Message:
+Fixed merging error in FTPS
+added newline to end of transaction exports
+----
+Modified : /trunk/svn/FTPS.java
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 115
+Author: sxc7870
+Date: Monday, March 14, 2016 12:25:43 AM
+Message:
+Serialization of CashAccounts history and equity History
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 114
+Author: dxd2791
+Date: Monday, March 14, 2016 12:23:35 AM
+Message:
+Completed imports
+----
+Modified : /trunk/svn/FTPS.java
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 113
+Author: dxd2791
+Date: Monday, March 14, 2016 12:10:36 AM
+Message:
+Made import history buttons
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 112
+Author: dxd2791
+Date: Monday, March 14, 2016 12:03:04 AM
+Message:
+Equities page self-refresh when removing equities
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 111
+Author: dxd2791
+Date: Monday, March 14, 2016 12:00:34 AM
+Message:
+Fixed bug
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 110
+Author: dxd2791
+Date: Sunday, March 13, 2016 11:54:36 PM
+Message:
+Fixed bug
+----
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 109
+Author: dxd2791
+Date: Sunday, March 13, 2016 11:53:09 PM
+Message:
+Able to view transaction history
+----
+Modified : /trunk/svn/FTPS.java
+Modified : /trunk/svn/History.java
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 108
+Author: dxd2791
+Date: Sunday, March 13, 2016 11:42:23 PM
+Message:
+Update transaction history page
+----
+Modified : /trunk/svn/FTPS.java
+Modified : /trunk/svn/History.java
+
+Revision: 107
+Author: ars2201
+Date: Sunday, March 13, 2016 11:35:39 PM
+Message:
+Changed it back; realized change was unnecessary
+----
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 106
+Author: ars2201
+Date: Sunday, March 13, 2016 11:31:15 PM
+Message:
+Made small change to updateBalance but still doesn't work right :/
+----
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 105
+Author: dxd2791
+Date: Sunday, March 13, 2016 11:12:59 PM
+Message:
+Now able to quit w/o saving and quit with saving
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 104
+Author: bpk9701
+Date: Sunday, March 13, 2016 11:04:48 PM
+Message:
+remove equity
+----
+Modified : /trunk/svn/FTPS.java
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 103
+Author: dxd2791
+Date: Sunday, March 13, 2016 10:53:40 PM
+Message:
+Changed date object thing to string
+----
+Modified : /trunk/svn/Equity.java
+Modified : /trunk/svn/FTPS.java
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 102
+Author: dxd2791
+Date: Sunday, March 13, 2016 10:42:16 PM
+Message:
+Fixed import equities
+----
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 101
+Author: zps6796
+Date: Sunday, March 13, 2016 10:41:06 PM
+Message:
+Fixed bear market simulation.
+----
+Modified : /trunk/svn/BearMarket.java
+Modified : /trunk/svn/FTPS.java
+
+Revision: 100
+Author: dxd2791
+Date: Sunday, March 13, 2016 10:37:29 PM
+Message:
+Able to use Export CA button
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 99
+Author: bpk9701
+Date: Sunday, March 13, 2016 10:34:53 PM
+Message:
+export cash account
+----
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 98
+Author: dxd2791
+Date: Sunday, March 13, 2016 10:32:34 PM
+Message:
+Able to export equities
+----
+Modified : /trunk/svn/FTPS.java
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 97
+Author: sxc7870
+Date: Sunday, March 13, 2016 10:27:28 PM
+Message:
+Saves Equities now
+----
+Modified : /trunk/svn/Equity.java
+Modified : /trunk/svn/FTPS.java
+
+Revision: 96
+Author: jtk7412
+Date: Sunday, March 13, 2016 10:12:41 PM
+Message:
+Fixed creating an equity with array list of sector/index (does not display array list)
+----
+Modified : /trunk/svn/Equity.java
+Modified : /trunk/svn/FTPS.java
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 95
+Author: dxd2791
+Date: Sunday, March 13, 2016 9:49:28 PM
+Message:
+Able to use Remove CA button
+----
+Modified : /trunk/svn/Equity.java
+Modified : /trunk/svn/FTPS.java
+Modified : /trunk/svn/History.java
+
+Revision: 94
+Author: zps6796
+Date: Sunday, March 13, 2016 9:48:00 PM
+Message:
+changed doubles arrays to doubles
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 93
+Author: zps6796
+Date: Sunday, March 13, 2016 9:35:57 PM
+Message:
+Changed futures simulation.
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 92
+Author: zps6796
+Date: Sunday, March 13, 2016 9:31:51 PM
+Message:
+Changed futures simulations.
+----
+Modified : /trunk/svn/BearMarket.java
+Modified : /trunk/svn/BullMarket.java
+Modified : /trunk/svn/FutureSimulation.java
+Modified : /trunk/svn/NoGrowth.java
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 91
+Author: dxd2791
+Date: Sunday, March 13, 2016 9:12:13 PM
+Message:
+Removed 'View Portfolio' button
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 90
+Author: ars2201
+Date: Sunday, March 13, 2016 9:03:59 PM
+Message:
+Committing fixes
+Committing partially done adding funds to cash account upon removing equity
+----
+Modified : /trunk/svn/CashAccount.java
+Modified : /trunk/svn/Equity.java
+Modified : /trunk/svn/FTPS.java
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 89
+Author: jtk7412
+Date: Sunday, March 13, 2016 9:02:10 PM
+Message:
+Fixed equity structure to remove redundancy of sector/index
+----
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 88
+Author: jtk7412
+Date: Sunday, March 13, 2016 8:59:17 PM
+Message:
+Made it so that we can add 0 to many sector/index when creating an equity 
+----
+Modified : /trunk/svn/Equity.java
+Modified : /trunk/svn/FTPS.java
+
+Revision: 87
+Author: sxc7870
+Date: Sunday, March 13, 2016 8:56:28 PM
+Message:
+Saves CashAccount now!!!
+----
+Modified : /trunk/svn/CashAccount.java
+Modified : /trunk/svn/FTPS.java
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 86
+Author: dxd2791
+Date: Sunday, March 13, 2016 8:49:43 PM
+Message:
+Refactored saving equities code
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 85
+Author: bpk9701
+Date: Sunday, March 13, 2016 8:46:26 PM
+Message:
+history logger
+----
+Modified : /trunk/svn/CashAccount.java
+Added : /trunk/svn/HistoryInvoker.java
+Added : /trunk/svn/LogCAHistory.java
+Added : /trunk/svn/LogEquityHistory.java
+Added : /trunk/svn/LogHistory.java
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 84
+Author: sxc7870
+Date: Sunday, March 13, 2016 8:38:31 PM
+Message:
+Saved equities wohoo!!!
+----
+Modified : /trunk/svn/Equity.java
+Modified : /trunk/svn/FTPS.java
+
+Revision: 83
+Author: dxd2791
+Date: Sunday, March 13, 2016 8:29:19 PM
+Message:
+Modified comments
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 82
+Author: dxd2791
+Date: Sunday, March 13, 2016 8:28:20 PM
+Message:
+Able to filter list of equities
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 81
+Author: ars2201
+Date: Sunday, March 13, 2016 8:13:36 PM
+Message:
+Changed default number of shares when importing to 1
+----
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 80
+Author: dxd2791
+Date: Sunday, March 13, 2016 8:10:50 PM
+Message:
+Able to display total value in equities table
+----
+Modified : /trunk/svn/Equity.java
+Modified : /trunk/svn/FTPS.java
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 79
+Author: ars2201
+Date: Sunday, March 13, 2016 8:04:38 PM
+Message:
+Added Total Value to equity columns; values not yet showing
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 78
+Author: dxd2791
+Date: Sunday, March 13, 2016 7:54:26 PM
+Message:
+Added functionality to add cash account button
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 77
+Author: ars2201
+Date: Sunday, March 13, 2016 7:42:00 PM
+Message:
+commented out "Register an Admin" button; not to be in R1
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 76
+Author: dxd2791
+Date: Sunday, March 13, 2016 7:41:38 PM
+Message:
+Fixed doubles not showing in CA table
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 75
+Author: zps6796
+Date: Sunday, March 13, 2016 7:39:15 PM
+Message:
+ftps
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 74
+Author: zps6796
+Date: Sunday, March 13, 2016 7:36:10 PM
+Message:
+commit
+----
+Modified : /trunk/svn/cashaccounts.csv
+
+Revision: 73
+Author: zps6796
+Date: Sunday, March 13, 2016 7:32:18 PM
+Message:
+Working on importing cash accounts.
+----
+Modified : /trunk/svn/CashAccount.java
+Modified : /trunk/svn/Portfolio.java
+Added : /trunk/svn/cashaccounts.csv
+
+Revision: 72
+Author: bpk9701
+Date: Sunday, March 13, 2016 6:37:51 PM
+Message:
+cash account transfer funds fix
+----
+Modified : /trunk/svn/CashAccount.java
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 71
+Author: dxd2791
+Date: Sunday, March 13, 2016 6:20:34 PM
+Message:
+Fixed stuff involving Date
+----
+Modified : /trunk/svn/FTPS.java
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 70
+Author: bpk9701
+Date: Sunday, March 13, 2016 6:12:27 PM
+Message:
+export history
+----
+Modified : /trunk/svn/CashAccount.java
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 69
+Author: dxd2791
+Date: Sunday, March 13, 2016 5:56:20 PM
+Message:
+Nearly completed import CSV
+----
+Modified : /trunk/svn/Equity.java
+Modified : /trunk/svn/FTPS.java
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 68
+Author: zps6796
+Date: Sunday, March 13, 2016 5:48:03 PM
+Message:
+Added handlers for cash account buttons.
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 67
+Author: bpk9701
+Date: Sunday, March 13, 2016 5:43:38 PM
+Message:
+some transaction history recorded
+----
+Modified : /trunk/svn/History.java
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 66
+Author: zps6796
+Date: Sunday, March 13, 2016 5:36:21 PM
+Message:
+Updated GUI for cash accounts.
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 65
+Author: sxc7870
+Date: Sunday, March 13, 2016 5:33:00 PM
+Message:
+updateBalance parameters and updates it as well
+----
+Modified : /trunk/svn/CashAccount.java
+
+Revision: 64
+Author: bpk9701
+Date: Sunday, March 13, 2016 5:26:13 PM
+Message:
+History Object
+----
+Added : /trunk/svn/History.java
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 63
+Author: dxd2791
+Date: Sunday, March 13, 2016 5:03:14 PM
+Message:
+Completed add equity
+----
+Modified : /trunk/svn/Equity.java
+Modified : /trunk/svn/FTPS.java
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 62
+Author: bpk9701
+Date: Sunday, March 13, 2016 4:58:34 PM
+Message:
+export equity
+----
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 61
+Author: bpk9701
+Date: Sunday, March 13, 2016 4:55:42 PM
+Message:
+export equity
+----
+Modified : /trunk/svn/BearMarket.java
+Modified : /trunk/svn/Equity.java
+Modified : /trunk/svn/NoGrowth.java
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 60
+Author: ars2201
+Date: Sunday, March 13, 2016 4:38:52 PM
+Message:
+Pushing lost file
+----
+Modified : /trunk/svn/FutureSimulation.java
+
+Revision: 59
+Author: dxd2791
+Date: Sunday, March 13, 2016 4:30:36 PM
+Message:
+Completed addEquity
+----
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 58
+Author: dxd2791
+Date: Sunday, March 13, 2016 4:12:18 PM
+Message:
+Forgot a file
+----
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 57
+Author: dxd2791
+Date: Sunday, March 13, 2016 4:07:56 PM
+Message:
+Basic look for equities table
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 56
+Author: dxd2791
+Date: Sunday, March 13, 2016 2:51:12 PM
+Message:
+Fixed errors involving serialization.
+----
+Modified : /trunk/svn/FTPS.java
+Modified : /trunk/svn/admins
+Modified : /trunk/svn/myfile
+
+Revision: 55
+Author: dxd2791
+Date: Sunday, March 13, 2016 12:34:30 AM
+Message:
+Able to add admins and delete portfolios, but some bugs remain
+----
+Modified : /trunk/svn/Admin.java
+Modified : /trunk/svn/FTPS.java
+
+Revision: 54
+Author: dxd2791
+Date: Sunday, March 13, 2016 12:14:22 AM
+Message:
+Fixed bug with adding an admin
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 53
+Author: dxd2791
+Date: Sunday, March 13, 2016 12:04:51 AM
+Message:
+Completed GUI part of simulation
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 52
+Author: dxd2791
+Date: Saturday, March 12, 2016 11:51:20 PM
+Message:
+Fixed bug
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 51
+Author: dxd2791
+Date: Saturday, March 12, 2016 11:47:52 PM
+Message:
+Added to simulation code
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 50
+Author: dxd2791
+Date: Saturday, March 12, 2016 11:15:00 PM
+Message:
+Now able to access simulation page
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 49
+Author: dxd2791
+Date: Saturday, March 12, 2016 11:06:52 PM
+Message:
+Cleaned code a bit
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 48
+Author: dxd2791
+Date: Saturday, March 12, 2016 10:39:08 PM
+Message:
+Catches errors for delete portfolio. Can't actually delete portfolios yet
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 47
+Author: dxd2791
+Date: Saturday, March 12, 2016 10:23:43 PM
+Message:
+Implemented create admin functionality
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 46
+Author: dxd2791
+Date: Saturday, March 12, 2016 10:09:16 PM
+Message:
+Fixed register as admin bug
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 45
+Author: dxd2791
+Date: Saturday, March 12, 2016 9:31:11 PM
+Message:
+Able to view list of portfolios as admin
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 44
+Author: dxd2791
+Date: Saturday, March 12, 2016 9:13:03 PM
+Message:
+Fixed bug found in registration
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 43
+Author: sxc7870
+Date: Saturday, March 12, 2016 8:58:58 PM
+Message:
+More deletePortfolio stuff
+----
+Modified : /trunk/svn/Admin.java
+
+Revision: 42
+Author: zps6796
+Date: Saturday, March 12, 2016 8:49:25 PM
+Message:
+Started making simulation GUI page.
+----
+Modified : /trunk/svn/Admin.java
+Modified : /trunk/svn/BearMarket.java
+Modified : /trunk/svn/BullMarket.java
+Modified : /trunk/svn/CashAccount.java
+Modified : /trunk/svn/Equity.java
+Modified : /trunk/svn/FTPS.java
+Modified : /trunk/svn/FutureSimulation.java
+Modified : /trunk/svn/NoGrowth.java
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 41
+Author: zps6796
+Date: Saturday, March 12, 2016 8:19:08 PM
+Message:
+Made FutureSimulation an interface
+----
+Modified : /trunk/svn/BearMarket.java
+Modified : /trunk/svn/BullMarket.java
+Modified : /trunk/svn/FTPS.java
+Modified : /trunk/svn/FutureSimulation.java
+Modified : /trunk/svn/NoGrowth.java
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 40
+Author: sxc7870
+Date: Saturday, March 12, 2016 8:17:46 PM
+Message:
+Added functionality to deleteAdmin and other stuff 
+----
+Modified : /trunk/svn/Admin.java
+Modified : /trunk/svn/BearMarket.java
+Modified : /trunk/svn/BullMarket.java
+Modified : /trunk/svn/CashAccount.java
+Modified : /trunk/svn/Equity.java
+Modified : /trunk/svn/FTPS.java
+Modified : /trunk/svn/FutureSimulation.java
+Modified : /trunk/svn/NoGrowth.java
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 39
+Author: dxd2791
+Date: Saturday, March 12, 2016 8:14:52 PM
+Message:
+Finished administrator login and registration
+----
+Modified : /trunk/svn/Admin.java
+Modified : /trunk/svn/FTPS.java
+Added : /trunk/svn/admins
+Modified : /trunk/svn/myfile
+
+Revision: 38
+Author: zps6796
+Date: Saturday, March 12, 2016 7:35:09 PM
+Message:
+Finished bear, bull, and no growth market simulation algorithms.
+----
+Modified : /trunk/262 project.iml
+Modified : /trunk/svn/BearMarket.java
+Modified : /trunk/svn/BullMarket.java
+Modified : /trunk/svn/NoGrowth.java
+
+Revision: 37
+Author: dxd2791
+Date: Saturday, March 12, 2016 7:27:43 PM
+Message:
+Checks if username is already taken
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 36
+Author: dxd2791
+Date: Saturday, March 12, 2016 7:09:37 PM
+Message:
+Forgot to commit a file
+----
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 35
+Author: dxd2791
+Date: Saturday, March 12, 2016 7:07:54 PM
+Message:
+Made object serialization thing
+----
+Modified : /trunk/svn/FTPS.java
+Added : /trunk/svn/myfile
+
+Revision: 34
+Author: dxd2791
+Date: Friday, March 11, 2016 10:32:52 PM
+Message:
+Fixed errors
+----
+Modified : /trunk/svn/Admin.java
+Modified : /trunk/svn/CashAccount.java
+Modified : /trunk/svn/Equity.java
+Modified : /trunk/svn/FTPS.java
+Modified : /trunk/svn/FutureSimulation.java
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 33
+Author: sxc7870
+Date: Friday, March 11, 2016 9:18:57 PM
+Message:
+Filled in createAdmin and made a constructor for the Admin class
+----
+Modified : /trunk/svn/Admin.java
+Modified : /trunk/svn/CashAccount.java
+Modified : /trunk/svn/Equity.java
+Modified : /trunk/svn/FTPS.java
+Modified : /trunk/svn/FutureSimulation.java
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 32
+Author: dxd2791
+Date: Friday, March 11, 2016 7:19:03 PM
+Message:
+Added buttons to equities page
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 31
+Author: dxd2791
+Date: Friday, March 11, 2016 5:16:34 PM
+Message:
+Made navbar
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 30
+Author: dxd2791
+Date: Wednesday, March 09, 2016 3:30:33 PM
+Message:
+Made basic parts of portfolio's GUI
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 29
+Author: dxd2791
+Date: Wednesday, March 09, 2016 2:56:31 PM
+Message:
+Complete basic registration
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 28
+Author: bpk9701
+Date: Wednesday, March 09, 2016 12:14:56 PM
+Message:
+remove equity from portfolio
+----
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 27
+Author: bpk9701
+Date: Wednesday, March 09, 2016 12:07:49 PM
+Message:
+Portfolio add/delete cash account
+----
+Modified : /trunk/svn/Admin.java
+Modified : /trunk/svn/BearMarket.java
+Modified : /trunk/svn/BullMarket.java
+Modified : /trunk/svn/CashAccount.java
+Modified : /trunk/svn/Equity.java
+Modified : /trunk/svn/FTPS.java
+Modified : /trunk/svn/FutureSimulation.java
+Modified : /trunk/svn/NoGrowth.java
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 26
+Author: bpk9701
+Date: Wednesday, March 09, 2016 11:37:20 AM
+Message:
+portfolio constructor
+----
+Modified : /trunk/svn/CashAccount.java
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 25
+Author: bpk9701
+Date: Wednesday, March 09, 2016 11:26:09 AM
+Message:
+cash account
+----
+Modified : /trunk/svn/CashAccount.java
+
+Revision: 24
+Author: bpk9701
+Date: Wednesday, March 09, 2016 11:13:10 AM
+Message:
+constructor added for cash account & balance set to initial amount upon creation
+----
+Modified : /trunk/svn/CashAccount.java
+Modified : /trunk/svn/Equity.java
+
+Revision: 23
+Author: bpk9701
+Date: Wednesday, March 09, 2016 11:04:38 AM
+Message:
+constructor added for equity
+----
+Modified : /trunk/svn/Equity.java
+
+Revision: 22
+Author: dxd2791
+Date: Tuesday, March 08, 2016 11:58:54 PM
+Message:
+Simple confirmation popup for logout
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 21
+Author: dxd2791
+Date: Tuesday, March 08, 2016 11:37:04 PM
+Message:
+Basic parts of GUI
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 20
+Author: ars2201
+Date: Sunday, March 06, 2016 8:41:40 PM
+Message:
+Testing
+----
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 19
+Author: ars2201
+Date: Sunday, March 06, 2016 8:33:15 PM
+Message:
+Basic stubbed out Admin, CashAccount, Equity based on class diagram
+changed comment type on variables in Portfolio
+----
+Modified : /trunk/svn/Admin.java
+Modified : /trunk/svn/CashAccount.java
+Modified : /trunk/svn/Equity.java
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 18
+Author: jtk7412
+Date: Sunday, March 06, 2016 8:32:57 PM
+Message:
+correctly added Hello.txt
+----
+Added : /trunk/svn/Hello.txt
+
+Revision: 17
+Author: jtk7412
+Date: Sunday, March 06, 2016 8:27:47 PM
+Message:
+added hello.txt
+----
+Modified : /trunk/svn/FTPS.java
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 16
+Author: dxd2791
+Date: Sunday, March 06, 2016 8:20:47 PM
+Message:
+commit
+----
+Modified : /trunk/svn/FTPS.java
+
+Revision: 15
+Author: zps6796
+Date: Sunday, March 06, 2016 8:15:12 PM
+Message:
+test
+----
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 14
+Author: dxd2791
+Date: Sunday, March 06, 2016 8:01:09 PM
+Message:
+Made login page
+----
+Added : /trunk/svn/FTPS.java
+
+Revision: 13
+Author: ars2201
+Date: Sunday, March 06, 2016 7:57:17 PM
+Message:
+Stubbed out a very basic portfolio class based on class diagram
+----
+Modified : /trunk/svn/Portfolio.java
+
+Revision: 12
+Author: zps6796
+Date: Sunday, March 06, 2016 7:31:35 PM
+Message:
+deleted test class
+
+----
+Deleted : /trunk/svn/test.java
+
+Revision: 11
+Author: zps6796
+Date: Sunday, March 06, 2016 7:25:05 PM
+Message:
+Created Skeleton files
+----
+Added : /trunk/svn/Admin.java
+Added : /trunk/svn/BearMarket.java
+Added : /trunk/svn/BullMarket.java
+Added : /trunk/svn/CashAccount.java
+Added : /trunk/svn/Equity.java
+Added : /trunk/svn/FutureSimulation.java
+Added : /trunk/svn/NoGrowth.java
+Added : /trunk/svn/Portfolio.java
+Modified : /trunk/svn/test.java
+
+Revision: 10
+Author: sxc7870
+Date: Sunday, March 06, 2016 6:42:05 PM
+Message:
+TEST PLS WORK
+----
+Added : /trunk/svn/test.java
+
+Revision: 9
+Author: sxc7870
+Date: Sunday, March 06, 2016 6:39:55 PM
+Message:
+new file 2 pls work
+----
+Added : /trunk/svn
+Added : /trunk/svn/trunk
+
+Revision: 8
+Author: ars2201
+Date: Sunday, March 06, 2016 6:39:22 PM
+Message:
+Testing?
+----
+Modified : /trunk/test.txt
+
+Revision: 7
+Author: zps6796
+Date: Sunday, March 06, 2016 6:38:28 PM
+Message:
+test commit
+----
+Modified : /trunk/262 project.iml
+Deleted : /trunk/home
+
+Revision: 6
+Author: bpk9701
+Date: Sunday, March 06, 2016 6:38:00 PM
+Message:
+
+----
+Modified : /trunk/test.txt
+
+Revision: 5
+Author: dxd2791
+Date: Sunday, March 06, 2016 6:37:17 PM
+Message:
+
+----
+Modified : /trunk/test.txt
+
+Revision: 4
+Author: sxc7870
+Date: Sunday, March 06, 2016 6:35:23 PM
+Message:
+
+----
+Added : /trunk/home
+Added : /trunk/home/teams
+Added : /trunk/home/teams/262
+Added : /trunk/home/teams/262/s262-01p1e
+Added : /trunk/home/teams/262/s262-01p1e/svn
+Added : /trunk/home/teams/262/s262-01p1e/svn/trunk
+
+Revision: 3
+Author: ars2201
+Date: Sunday, March 06, 2016 6:32:53 PM
+Message:
+Testing 1 2 3
+----
+Modified : /trunk/test.txt
+
+Revision: 2
+Author: zps6796
+Date: Sunday, March 06, 2016 6:28:01 PM
+Message:
+
+----
+Added : /trunk/262 project.iml
+Added : /trunk/test.txt
+
+Revision: 1
+Author: s262-01p1e
+Date: Sunday, March 06, 2016 5:30:55 PM
+Message:
+Creating Trunk folder
+----
+Added : /trunk
+

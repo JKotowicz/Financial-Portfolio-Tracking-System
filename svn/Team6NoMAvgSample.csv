@@ -1,0 +1,17 @@
+equity,100,AKAM,5176.00,"Akamai Technologies, Inc.",NASDAQ100
+equity,100,ADP,9027.00,"Automatic Data Processing, Inc.",NASDAQ100
+equity,100,GRMN,4422.00,Garmin Ltd.,NASDAQ100
+cashacc,1000000.00,account1
+cashacc,332099.00,account2
+cashacc,333334789.00,account3
+watchlistItem,MNST,120.0,150.0
+watchlistItem,GLOB,30.0,35.0
+watchlistItem,EJ,1.0,7.0
+transaction,EQUITY,AKAM,100.00,2016/04/14 22:46:57
+transaction,EQUITY,ADP,100.00,2016/04/14 22:47:01
+transaction,EQUITY,GRMN,100.00,2016/04/14 22:47:02
+transaction,CASHACCOUNT,account1,1000000.00,2016/04/14 22:47:16
+transaction,CASHACCOUNT,account2,333333.00,2016/04/14 22:47:20
+transaction,CASHACCOUNT,account3,333333555.00,2016/04/14 22:47:24
+transaction,CASHACCOUNT,account2,-1234.00,2016/04/14 22:47:31
+transaction,CASHACCOUNT,account3,1234.00,2016/04/14 22:47:31

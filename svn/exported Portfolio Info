@@ -1,0 +1,887 @@
+equity,36,FOXA,947.52,Twenty-First Century Fox, Inc.,NASDAQ100
+equity,12,AKAM,894.96,Akamai Technologies, Inc.,NASDAQ100
+cashacc,11438.04,asdasd,12/12/1212
+cashacc,32.0,sadas,12/12/1212
+transaction,Add,Cash Account,asdasd
+transaction,Add,Cash Account,sadas
+transaction,Update,Cash Account,asdasd
+transaction,Add,Equity,Twenty-First Century Fox, Inc.
+transaction,Add,Equity,Twenty-First Century Fox, Inc.
+transaction,Add,Equity,Activision Blizzard, Inc
+transaction,Add,Equity,Adobe Systems Incorporated
+transaction,Add,Equity,Akamai Technologies, Inc.
+transaction,Add,Equity,Alexion Pharmaceuticals, Inc.
+transaction,Add,Equity,Altera Corporation
+transaction,Add,Equity,Amazon.com, Inc.
+transaction,Add,Equity,American Airlines Group, Inc.
+transaction,Add,Equity,Amgen Inc.
+transaction,Add,Equity,Analog Devices, Inc.
+transaction,Add,Equity,Apple Inc.
+transaction,Add,Equity,Applied Materials, Inc.
+transaction,Add,Equity,Autodesk, Inc.
+transaction,Add,Equity,Automatic Data Processing, Inc.
+transaction,Add,Equity,Avago Technologies Limited
+transaction,Add,Equity,Baidu, Inc.
+transaction,Add,Equity,Bed Bath & Beyond Inc.
+transaction,Add,Equity,Biogen Inc.
+transaction,Add,Equity,BioMarin Pharmaceutical Inc.
+transaction,Add,Equity,Broadcom Corporation
+transaction,Add,Equity,C.H. Robinson Worldwide, Inc.
+transaction,Add,Equity,CA Inc.
+transaction,Add,Equity,Celgene Corporation
+transaction,Add,Equity,Cerner Corporation
+transaction,Add,Equity,Charter Communications, Inc.
+transaction,Add,Equity,Check Point Software Technologies Ltd.
+transaction,Add,Equity,Cisco Systems, Inc.
+transaction,Add,Equity,Citrix Systems, Inc.
+transaction,Add,Equity,Cognizant Technology Solutions Corporation
+transaction,Add,Equity,Comcast Corporation
+transaction,Add,Equity,Comcast Corporation
+transaction,Add,Equity,Costco Wholesale Corporation
+transaction,Add,Equity,Discovery Communications, Inc.
+transaction,Add,Equity,Discovery Communications, Inc.
+transaction,Add,Equity,DISH Network Corporation
+transaction,Add,Equity,Dollar Tree, Inc.
+transaction,Add,Equity,eBay Inc.
+transaction,Add,Equity,Electronic Arts Inc.
+transaction,Add,Equity,Expeditors International of Washington, Inc.
+transaction,Add,Equity,Express Scripts Holding Company
+transaction,Add,Equity,Facebook, Inc.
+transaction,Add,Equity,Fastenal Company
+transaction,Add,Equity,Fiserv, Inc.
+transaction,Add,Equity,Garmin Ltd.
+transaction,Add,Equity,Gilead Sciences, Inc.
+transaction,Add,Equity,Google Inc.
+transaction,Add,Equity,Google Inc.
+transaction,Add,Equity,Henry Schein, Inc.
+transaction,Add,Equity,Illumina, Inc.
+transaction,Add,Equity,Intel Corporation
+transaction,Add,Equity,Intuit Inc.
+transaction,Add,Equity,Intuitive Surgical, Inc.
+transaction,Add,Equity,JD.com, Inc.
+transaction,Add,Equity,KLA-Tencor Corporation
+transaction,Add,Equity,Keurig Green Mountain, Inc.
+transaction,Add,Equity,The Kraft Heinz Company
+transaction,Add,Equity,Lam Research Corporation
+transaction,Add,Equity,Liberty Global plc
+transaction,Add,Equity,Liberty Global plc
+transaction,Add,Equity,Liberty Interactive Corporation
+transaction,Add,Equity,Liberty Global plc
+transaction,Add,Equity,Liberty Media Corporation
+transaction,Add,Equity,Liberty Media Corporation
+transaction,Add,Equity,Liberty Interactive Corporation
+transaction,Add,Equity,Linear Technology Corporation
+transaction,Add,Equity,Marriott International
+transaction,Add,Equity,Mattel, Inc.
+transaction,Add,Equity,Micron Technology, Inc.
+transaction,Add,Equity,Microsoft Corporation
+transaction,Add,Equity,Mondelez International, Inc.
+transaction,Add,Equity,Monster Beverage Corporation
+transaction,Add,Equity,Mylan N.V.
+transaction,Add,Equity,NetApp, Inc.
+transaction,Add,Equity,Netflix, Inc.
+transaction,Add,Equity,NVIDIA Corporation
+transaction,Add,Equity,NXP Semiconductors N.V.
+transaction,Add,Equity,O&#39;Reilly Automotive, Inc.
+transaction,Add,Equity,PACCAR Inc.
+transaction,Add,Equity,Paychex, Inc.
+transaction,Add,Equity,QUALCOMM Incorporated
+transaction,Add,Equity,Regeneron Pharmaceuticals, Inc.
+transaction,Add,Equity,Ross Stores, Inc.
+transaction,Add,Equity,SanDisk Corporation
+transaction,Add,Equity,SBA Communications Corporation
+transaction,Add,Equity,Seagate Technology.
+transaction,Add,Equity,Sirius XM Holdings Inc.
+transaction,Add,Equity,Skyworks Solutions, Inc.
+transaction,Add,Equity,Staples, Inc.
+transaction,Add,Equity,Starbucks Corporation
+transaction,Add,Equity,Stericycle, Inc.
+transaction,Add,Equity,Symantec Corporation
+transaction,Add,Equity,Tesla Motors, Inc.
+transaction,Add,Equity,Texas Instruments Incorporated
+transaction,Add,Equity,The Priceline Group Inc. 
+transaction,Add,Equity,Tractor Supply Company
+transaction,Add,Equity,TripAdvisor, Inc.
+transaction,Add,Equity,Verisk Analytics, Inc.
+transaction,Add,Equity,Vertex Pharmaceuticals Incorporated
+transaction,Add,Equity,Viacom Inc.
+transaction,Add,Equity,VimpelCom Ltd.
+transaction,Add,Equity,Vodafone Group Plc
+transaction,Add,Equity,Walgreens Boots Alliance, Inc.
+transaction,Add,Equity,Western Digital Corporation
+transaction,Add,Equity,Whole Foods Market, Inc.
+transaction,Add,Equity,Wynn Resorts, Limited
+transaction,Add,Equity,Xilinx, Inc.
+transaction,Add,Equity,Yahoo! Inc.
+transaction,Add,Equity,Boeing Company (The)
+transaction,Add,Equity,Caterpillar, Inc.
+transaction,Add,Equity,Chevron Corporation
+transaction,Add,Equity,Coca-Cola Company (The)
+transaction,Add,Equity,E.I. du Pont de Nemours and Company
+transaction,Add,Equity,Exxon Mobil Corporation
+transaction,Add,Equity,General Electric Company
+transaction,Add,Equity,Home Depot, Inc. (The)
+transaction,Add,Equity,McDonald&#39;s Corporation
+transaction,Add,Equity,Nike, Inc.
+transaction,Add,Equity,Procter & Gamble Company (The)
+transaction,Add,Equity,United Technologies Corporation
+transaction,Add,Equity,Verizon Communications Inc.
+transaction,Add,Equity,Visa Inc.
+transaction,Add,Equity,Wal-Mart Stores, Inc.
+transaction,Add,Equity,Walt Disney Company (The)
+transaction,Add,Equity,CoreLogic, Inc.
+transaction,Add,Equity,Globant S.A.
+transaction,Add,Equity,Realogy Holdings Corp.
+transaction,Add,Equity,Ciber, Inc.
+transaction,Add,Equity,Nelnet, Inc.
+transaction,Add,Equity,Provident Financial Services, Inc
+transaction,Add,Equity,Southwest Airlines Company
+transaction,Add,Equity,American Realty Investors, Inc.
+transaction,Add,Equity,White Mountains Insurance Group, Ltd.
+transaction,Add,Equity,Hill-Rom Holdings Inc
+transaction,Add,Equity,Royal Bank Scotland plc (The)
+transaction,Add,Equity,Stifel Financial Corporation
+transaction,Add,Equity,Controladora Vuela Compania de Aviacion, S.A.B. de C.V.
+transaction,Add,Equity,Manning & Napier, Inc.
+transaction,Add,Equity,Evertec, Inc.
+transaction,Add,Equity,Lannett Co Inc
+transaction,Add,Equity,E-House (China) Holdings Limited
+transaction,Add,Equity,Sterling Bancorp
+transaction,Add,Equity,CSX Corporation
+transaction,Add,Equity,FCB Financial Holdings, Inc.
+transaction,Add,Equity,The Hanover Insurance Group, Inc.
+transaction,Add,Equity,Five Star Quality Care, Inc.
+transaction,Add,Equity,MagnaChip Semiconductor Corporation
+transaction,Add,Equity,Franklin Financial Network, Inc.
+transaction,Add,Equity,Jones Lang LaSalle Incorporated
+transaction,Add,Equity,L-3 Communications Holdings, Inc.
+transaction,Add,Equity,Rexnord Corporation
+transaction,Add,Equity,CACI International, Inc.
+transaction,Add,Equity,Alexander & Baldwin Holdings, Inc.
+transaction,Add,Equity,Red Hat, Inc.
+transaction,Add,Equity,Opko Health Inc
+transaction,Add,Equity,Solera Holdings, Inc.
+transaction,Add,Equity,Abbott Laboratories
+transaction,Add,Equity,Chubb Corporation (The)
+transaction,Add,Equity,On Assignment, Inc.
+transaction,Add,Equity,Bristow Group Inc
+transaction,Add,Equity,Exterran Holdings, Inc.
+transaction,Add,Equity,Prestige Brand Holdings, Inc.
+transaction,Add,Equity,Alere Inc.
+transaction,Add,Equity,SAP SE
+transaction,Add,Equity,Medtronic plc
+transaction,Add,Equity,KeyCorp
+transaction,Add,Equity,Principal Financial Group Inc
+transaction,Add,Equity,Advantest Corporation (Kabushiki Kaisha Advantest) ADS
+transaction,Add,Equity,Mednax, Inc
+transaction,Add,Equity,JMP Group LLC
+transaction,Add,Equity,Bank of America Corporation
+transaction,Add,Equity,Ardmore Shipping Corporation
+transaction,Add,Equity,The Charles Schwab Corporation
+transaction,Add,Equity,MSA Safety Incorporporated
+transaction,Add,Equity,Affiliated Managers Group, Inc.
+transaction,Add,Equity,AMN Healthcare Services Inc
+transaction,Add,Equity,Grupo Financiero Santander Mexico S.A. B. de C.V.
+transaction,Add,Equity,Canadian Imperial Bank of Commerce
+transaction,Add,Equity,Woori Bank
+transaction,Add,Equity,Gamco Investors, Inc.
+transaction,Add,Equity,SouFun Holdings Limited
+transaction,Add,Equity,Western Alliance Bancorporation
+transaction,Add,Equity,Shopify Inc.
+transaction,Add,Equity,Mallinckrodt plc
+transaction,Add,Equity,Puma Biotechnology Inc
+transaction,Add,Equity,Prosperity Bancshares, Inc.
+transaction,Add,Equity,Hanger, Inc.
+transaction,Add,Equity,Imprivata, Inc.
+transaction,Add,Equity,Royal Bank Scotland plc (The)
+transaction,Add,Equity,RLI Corp.
+transaction,Add,Equity,Trupanion, Inc.
+transaction,Add,Equity,Urban Edge Properties
+transaction,Add,Equity,MaxLinear, Inc
+transaction,Add,Equity,Grupo Aval Acciones y Valores S.A.
+transaction,Add,Equity,XL Group plc
+transaction,Add,Equity,American Financial Group, Inc.
+transaction,Add,Equity,Allergan plc.
+transaction,Add,Equity,Customers Bancorp, Inc
+transaction,Add,Equity,Semiconductor  Manufacturing International Corporation
+transaction,Add,Equity,Genesis Healthcare, Inc.
+transaction,Add,Equity,Sequans Communications S.A.
+transaction,Add,Equity,Aegon NV
+transaction,Add,Equity,Ruckus Wireless, Inc.
+transaction,Add,Equity,Lehman ABS Corporation
+transaction,Add,Equity,Allianceberstein Holding L.P.
+transaction,Add,Equity,Health Net Inc.
+transaction,Add,Equity,GlaxoSmithKline PLC
+transaction,Add,Equity,Phoenix Companies, Inc. (The)
+transaction,Add,Equity,SYNTHETIC FIXED INCOME SECURITIES INC
+transaction,Add,Equity,Seaspan Corporation
+transaction,Add,Equity,Maiden Holdings, Ltd.
+transaction,Add,Equity,Imperva, Inc.
+transaction,Add,Equity,China Digital TV Holding Co., Ltd.
+transaction,Add,Equity,Affiliated Managers Group, Inc.
+transaction,Add,Equity,InterXion Holding N.V.
+transaction,Add,Equity,Avolon Holdings Limited
+transaction,Add,Equity,Charles River Laboratories International, Inc.
+transaction,Add,Equity,Loews Corporation
+transaction,Add,Equity,Waddell & Reed Financial, Inc.
+transaction,Add,Equity,A10 Networks, Inc.
+transaction,Add,Equity,Box Ships Inc.
+transaction,Add,Equity,3M Company
+transaction,Add,Equity,IMS Health Holdings, Inc.
+transaction,Add,Equity,FactSet Research Systems Inc.
+transaction,Add,Equity,Delta Air Lines, Inc.
+transaction,Add,Equity,Rite Aid Corporation
+transaction,Add,Equity,Anthem, Inc.
+transaction,Add,Equity,58.com Inc.
+transaction,Add,Equity,Greenhill & Co., Inc.
+transaction,Add,Equity,Exar Corporation
+transaction,Add,Equity,Aegon NV
+transaction,Add,Equity,Barracuda Networks, Inc.
+transaction,Add,Equity,Boston Scientific Corporation
+transaction,Add,Equity,Rouse Properties, Inc.
+transaction,Add,Equity,Citigroup Inc.
+transaction,Add,Equity,The Blackstone Group L.P.
+transaction,Add,Equity,Violin Memory, Inc.
+transaction,Add,Equity,Roadrunner Transportation Systems, Inc
+transaction,Add,Equity,Dr. Reddy&#39;s Laboratories Ltd
+transaction,Add,Equity,Cullen/Frost Bankers, Inc.
+transaction,Add,Equity,Zoetis Inc.
+transaction,Add,Equity,Ace Limited
+transaction,Add,Equity,Luxoft Holding, Inc.
+transaction,Add,Equity,Navios Maritime Holdings Inc.
+transaction,Add,Equity,Frontline Ltd.
+transaction,Add,Equity,HubSpot, Inc.
+transaction,Add,Equity,Quest Diagnostics Incorporated
+transaction,Add,Equity,Fitbit, Inc.
+transaction,Add,Equity,HCC Insurance Holdings, Inc.
+transaction,Add,Equity,Diana Shipping inc.
+transaction,Add,Equity,Endurance Specialty Holdings Ltd
+transaction,Add,Equity,Benchmark Electronics, Inc.
+transaction,Add,Equity,Nimble Storage, Inc.
+transaction,Add,Equity,John Bean Technologies Corporation
+transaction,Add,Equity,Kindred Healthcare, Inc.
+transaction,Add,Equity,Validus Holdings, Ltd.
+transaction,Add,Equity,Aircastle Limited
+transaction,Add,Equity,Pharmerica Corporation
+transaction,Add,Equity,LifeLock, Inc.
+transaction,Add,Equity,HSBC Holdings plc
+transaction,Add,Equity,MBIA, Inc.
+transaction,Add,Equity,United Rentals, Inc.
+transaction,Add,Equity,First Commonwealth Financial Corporation
+transaction,Add,Equity,Copa Holdings, S.A.
+transaction,Add,Equity,St. Jude Medical, Inc.
+transaction,Add,Equity,AbbVie Inc.
+transaction,Add,Equity,Demand Media Inc.
+transaction,Add,Equity,Chemed Corp.
+transaction,Add,Equity,BBX Capital Corporation
+transaction,Add,Equity,Tableau Software, Inc.
+transaction,Add,Equity,Aon plc
+transaction,Add,Equity,Torchmark Corporation
+transaction,Add,Equity,Allstate Corporation (The)
+transaction,Add,Equity,CPB Inc.
+transaction,Add,Equity,Discover Financial Services
+transaction,Add,Equity,Lexmark International, Inc.
+transaction,Add,Equity,PROS Holdings, Inc.
+transaction,Add,Equity,KCG Holdings, Inc.
+transaction,Add,Equity,Alaska Air Group, Inc.
+transaction,Add,Equity,HSBC Holdings plc
+transaction,Add,Equity,BancorpSouth, Inc.
+transaction,Add,Equity,TransUnion
+transaction,Add,Equity,ING Group, N.V.
+transaction,Add,Equity,Franklin Resources, Inc.
+transaction,Add,Equity,ABM Industries Incorporated
+transaction,Add,Equity,KKR Financial Holdings LLC
+transaction,Add,Equity,PPlus Trust
+transaction,Add,Equity,ING Group, N.V.
+transaction,Add,Equity,Hudson Pacific Properties, Inc.
+transaction,Add,Equity,MidSouth Bancorp
+transaction,Add,Equity,NQ Mobile Inc.
+transaction,Add,Equity,Grupo Aeroportuario Del Pacifico, S.A. de C.V.
+transaction,Add,Equity,AVG Technologies N.V.
+transaction,Add,Equity,HCI Group, Inc.
+transaction,Add,Equity,Goldman Sachs Group, Inc. (The)
+transaction,Add,Equity,Lloyds Banking Group Plc
+transaction,Add,Equity,EPAM Systems, Inc.
+transaction,Add,Equity,Third Point Reinsurance Ltd.
+transaction,Add,Equity,Rollins, Inc.
+transaction,Add,Equity,Youku Tudou Inc.
+transaction,Add,Equity,Motorola Solutions, Inc.
+transaction,Add,Equity,Ally Financial Inc.
+transaction,Add,Equity,Dover Corporation
+transaction,Add,Equity,Box, Inc.
+transaction,Add,Equity,American Financial Group, Inc.
+transaction,Add,Equity,Glaukos Corporation
+transaction,Add,Equity,LendingClub Corporation
+transaction,Add,Equity,Dun & Bradstreet Corporation (The)
+transaction,Add,Equity,Invitae Corporation
+transaction,Add,Equity,International Business Machines Corporation
+transaction,Add,Equity,AmerisourceBergen Corporation (Holding Co)
+transaction,Add,Equity,Mobileye N.V.
+transaction,Add,Equity,Lincoln National Corporation
+transaction,Add,Equity,Sun Life Financial Inc.
+transaction,Add,Equity,Herbalife LTD.
+transaction,Add,Equity,Twitter, Inc.
+transaction,Add,Equity,Citizens, Inc.
+transaction,Add,Equity,Infoblox Inc.
+transaction,Add,Equity,Canadian National Railway Company
+transaction,Add,Equity,Everi Holdings Inc.
+transaction,Add,Equity,U.S. Bancorp
+transaction,Add,Equity,HealthSouth Corporation
+transaction,Add,Equity,Old Republic International Corporation
+transaction,Add,Equity,Capital One Financial Corporation
+transaction,Add,Equity,Aaron&#39;s,  Inc.
+transaction,Add,Equity,Standex International Corporation
+transaction,Add,Equity,BB&T Corporation
+transaction,Add,Equity,U.S. Bancorp
+transaction,Add,Equity,Synovus Financial Corp.
+transaction,Add,Equity,Voya Financial, Inc.
+transaction,Add,Equity,GoDaddy Inc.
+transaction,Add,Equity,Employers Holdings Inc
+transaction,Add,Equity,Orix Corp Ads
+transaction,Add,Equity,EMC Corporation
+transaction,Add,Equity,M&T Bank Corporation
+transaction,Add,Equity,Stryker Corporation
+transaction,Add,Equity,Astoria Financial Corporation
+transaction,Add,Equity,Genco Shipping & Trading Limited Warrants Expiring 12/31/2021 
+transaction,Add,Equity,Ellington Financial LLC
+transaction,Add,Equity,Navios Maritime Partners LP
+transaction,Add,Equity,Black Knight Financial Services, Inc.
+transaction,Add,Equity,Aercap Holdings N.V.
+transaction,Add,Equity,Springleaf Holdings, Inc.
+transaction,Add,Equity,CAI International, Inc.
+transaction,Add,Equity,Anthem, Inc.
+transaction,Add,Equity,Globus Medical, Inc.
+transaction,Add,Equity,On Deck Capital, Inc.
+transaction,Add,Equity,Willis Group Holdings Limited
+transaction,Add,Equity,Macro Bank Inc.
+transaction,Add,Equity,Gener8 Maritime, Inc.
+transaction,Add,Equity,Era Group, Inc.
+transaction,Add,Equity,Hewlett-Packard Company
+transaction,Add,Equity,Global Ship Lease, Inc.
+transaction,Add,Equity,Palo Alto Networks, Inc.
+transaction,Add,Equity,Gigamon Inc.
+transaction,Add,Equity,Markel Corporation
+transaction,Add,Equity,Salesforce.com Inc
+transaction,Add,Equity,IHS Inc.
+transaction,Add,Equity,Credicorp Ltd.
+transaction,Add,Equity,Synchrony Financial
+transaction,Add,Equity,Heritage Insurance Holdings, Inc.
+transaction,Add,Equity,Ocwen Financial Corporation
+transaction,Add,Equity,Natl Westminster Pfd
+transaction,Add,Equity,NTT DOCOMO, Inc
+transaction,Add,Equity,Royal Bank Of Canada
+transaction,Add,Equity,Inphi Corporation
+transaction,Add,Equity,Freescale Semiconductor, Ltd.
+transaction,Add,Equity,McKesson Corporation
+transaction,Add,Equity,Aviva plc
+transaction,Add,Equity,Scorpio Bulkers Inc.
+transaction,Add,Equity,Celadon Group, Inc.
+transaction,Add,Equity,Workiva Inc.
+transaction,Add,Equity,FXCM Inc.
+transaction,Add,Equity,Flagstar Bancorp, Inc.
+transaction,Add,Equity,Advanced Semiconductor Engineering, Inc.
+transaction,Add,Equity,ResMed Inc.
+transaction,Add,Equity,PartnerRe Ltd.
+transaction,Add,Equity,Kansas City Southern
+transaction,Add,Equity,Symetra Financial Corporation
+transaction,Add,Equity,ING Group, N.V.
+transaction,Add,Equity,Genesee & Wyoming, Inc.
+transaction,Add,Equity,Seritage Growth Properties
+transaction,Add,Equity,Rosetta Stone
+transaction,Add,Equity,Kennedy-Wilson Holdings Inc.
+transaction,Add,Equity,First American Corporation (The)
+transaction,Add,Equity,Graham Corporation
+transaction,Add,Equity,Safe Bulkers, Inc
+transaction,Add,Equity,Assured Guaranty Ltd.
+transaction,Add,Equity,BGC Partners, Inc.
+transaction,Add,Equity,McGraw Hill Financial, Inc.
+transaction,Add,Equity,Teladoc, Inc.
+transaction,Add,Equity,Morgan Stanley
+transaction,Add,Equity,Deutsche Bank AG
+transaction,Add,Equity,Molina Healthcare Inc
+transaction,Add,Equity,SEACOR Holdings, Inc.
+transaction,Add,Equity,Oppenheimer Holdings, Inc.
+transaction,Add,Equity,Stewart Information Services Corporation
+transaction,Add,Equity,Customers Bancorp, Inc
+transaction,Add,Equity,MiX Telematics Limited
+transaction,Add,Equity,Oracle Corporation
+transaction,Add,Equity,Essent Group Ltd.
+transaction,Add,Equity,PPlus Trust
+transaction,Add,Equity,Ship Finance International Limited
+transaction,Add,Equity,Leidos Holdings, Inc.
+transaction,Add,Equity,Valeant Pharmaceuticals International, Inc.
+transaction,Add,Equity,Prudential Public Limited Company
+transaction,Add,Equity,HCI Group, Inc.
+transaction,Add,Equity,Prudential Financial, Inc.
+transaction,Add,Equity,Veeva Systems Inc.
+transaction,Add,Equity,Kemper Corporation
+transaction,Add,Equity,Qihoo 360 Technology Co. Ltd.
+transaction,Add,Equity,First Acceptance Corporation
+transaction,Add,Equity,STERIS Corporation
+transaction,Add,Equity,Medley Management Inc.
+transaction,Add,Equity,MetLife, Inc.
+transaction,Add,Equity,Zhaopin Limited
+transaction,Add,Equity,Aflac Incorporated
+transaction,Add,Equity,Banco De Chile
+transaction,Add,Equity,Renren Inc.
+transaction,Add,Equity,CVENT, INC.
+transaction,Add,Equity,Teekay Corporation
+transaction,Add,Equity,Eli Lilly and Company
+transaction,Add,Equity,JMP Group LLC
+transaction,Add,Equity,Marsh & McLennan Companies, Inc.
+transaction,Add,Equity,Baxalta Incorporated
+transaction,Add,Equity,Armada Hoffler Properties, Inc.
+transaction,Add,Equity,Getty Realty Corporation
+transaction,Add,Equity,The Rubicon Project, Inc.
+transaction,Add,Equity,CBRE Group, Inc.
+transaction,Add,Equity,Catalent, Inc.
+transaction,Add,Equity,Banco Latinoamericano de Comercio Exterior, S.A.
+transaction,Add,Equity,Smith & Nephew SNATS, Inc.
+transaction,Add,Equity,American Express Company
+transaction,Add,Equity,STMicroelectronics N.V.
+transaction,Add,Equity,Scorpio Tankers Inc.
+transaction,Add,Equity,Phoenix Companies, Inc. (The)
+transaction,Add,Equity,Wuxi Pharmatech (Cayman) Inc.
+transaction,Add,Equity,City National Corporation
+transaction,Add,Equity,Park Electrochemical Corporation
+transaction,Add,Equity,Edwards Lifesciences Corporation
+transaction,Add,Equity,Aviva plc
+transaction,Add,Equity,Nokia Corporation
+transaction,Add,Equity,Campus Crest Communities, Inc.
+transaction,Add,Equity,General Electric Company
+transaction,Add,Equity,Synthetic Fixed-Income Securities, Inc.
+transaction,Add,Equity,Taiwan Semiconductor Manufacturing Company Ltd.
+transaction,Add,Equity,Rackspace Hosting, Inc
+transaction,Add,Equity,New Relic, Inc.
+transaction,Add,Equity,Citigroup Inc.
+transaction,Add,Equity,Tenet Healthcare Corporation
+transaction,Add,Equity,Leju Holdings Limited
+transaction,Add,Equity,Tsakos Energy Navigation Ltd
+transaction,Add,Equity,Aegon NV
+transaction,Add,Equity,Grupo Aeroportuario del Sureste, S.A. de C.V.
+transaction,Add,Equity,Bristol-Myers Squibb Company
+transaction,Add,Equity,Q2 Holdings, Inc.
+transaction,Add,Equity,Netsuite Inc
+transaction,Add,Equity,Scorpio Bulkers Inc.
+transaction,Add,Equity,Walter Investment Management Corp.
+transaction,Add,Equity,Janus Capital Group, Inc
+transaction,Add,Equity,Universal American Corp.
+transaction,Add,Equity,Bitauto Holdings Limited
+transaction,Add,Equity,Milacron Holdings Corp.
+transaction,Add,Equity,Mitsubishi UFJ Financial Group Inc
+transaction,Add,Equity,Universal Health Services, Inc.
+transaction,Add,Equity,Con-way Inc.
+transaction,Add,Equity,HSBC Holdings plc
+transaction,Add,Equity,Aerohive Networks, Inc.
+transaction,Add,Equity,CDI Corporation
+transaction,Add,Equity,Brown & Brown, Inc.
+transaction,Add,Equity,Kansas City Southern
+transaction,Add,Equity,Webster Financial Corporation
+transaction,Add,Equity,Fidelity and Guaranty Life
+transaction,Add,Equity,Mizuho Financial Group, Inc.
+transaction,Add,Equity,Lehman ABS Corporation
+transaction,Add,Equity,Novartis AG
+transaction,Add,Equity,Ooma, Inc.
+transaction,Add,Equity,Monster Worldwide, Inc.
+transaction,Add,Equity,ING Group, N.V.
+transaction,Add,Equity,Investment Technology Group, Inc.
+transaction,Add,Equity,BBVA Banco Frances S.A.
+transaction,Add,Equity,Invacare Corporation
+transaction,Add,Equity,Merrill Lynch & Co., Inc.
+transaction,Add,Equity,Imation Corporation
+transaction,Add,Equity,OFG Bancorp
+transaction,Add,Equity,Merrill Lynch Depositor, Inc.
+transaction,Add,Equity,Celestica, Inc.
+transaction,Add,Equity,Valley National Bancorp
+transaction,Add,Equity,OneBeacon Insurance Group, Ltd.
+transaction,Add,Equity,ING Group, N.V.
+transaction,Add,Equity,Select Asset Inc.
+transaction,Add,Equity,AMERIPRISE FINANCIAL SERVICES, INC.
+transaction,Add,Equity,Blue Capital Reinsurance Holdings Ltd.
+transaction,Add,Equity,Apollo Global Management, LLC
+transaction,Add,Equity,Regional Management Corp.
+transaction,Add,Equity,WellCare Health Plans, Inc.
+transaction,Add,Equity,International Shipholding Corporation
+transaction,Add,Equity,Marcus & Millichap, Inc.
+transaction,Add,Equity,JMP Group LLC
+transaction,Add,Equity,Kyocera Corporation
+transaction,Add,Equity,AllianzGI NFJ Dividend, Interest & Premium Strategy Fund
+transaction,Add,Equity,FedEx Corporation
+transaction,Add,Equity,Bank of Nova Scotia (The)
+transaction,Add,Equity,DHT Holdings, Inc.
+transaction,Add,Equity,Royal Bank Scotland plc (The)
+transaction,Add,Equity,MGIC Investment Corporation
+transaction,Add,Equity,IntraLinks Holdings, Inc.
+transaction,Add,Equity,Banc of California, Inc.
+transaction,Add,Equity,Unum Group
+transaction,Add,Equity,Guangshen Railway Company Limited
+transaction,Add,Equity,Tennant Company
+transaction,Add,Equity,Bear Stearns Depositor, Inc.
+transaction,Add,Equity,Merck & Company, Inc.
+transaction,Add,Equity,Mercury General Corporation
+transaction,Add,Equity,Paycom Software, Inc.
+transaction,Add,Equity,Berkshire Hills Bancorp, Inc.
+transaction,Add,Equity,C.R. Bard, Inc.
+transaction,Add,Equity,ChannelAdvisor Corporation
+transaction,Add,Equity,Forestar Group Inc
+transaction,Add,Equity,Credit Suisse Group
+transaction,Add,Equity,Government Properties Income Trust
+transaction,Add,Equity,Cardinal Health, Inc.
+transaction,Add,Equity,Walker & Dunlop, Inc.
+transaction,Add,Equity,AU Optronics Corp
+transaction,Add,Equity,Hilltop Holdings Inc.
+transaction,Add,Equity,HDFC Bank Limited
+transaction,Add,Equity,Juniper Networks, Inc.
+transaction,Add,Equity,Deutsch Bk Contingent Cap Tr V
+transaction,Add,Equity,Stifel Financial Corporation
+transaction,Add,Equity,Axis Capital Holdings Limited
+transaction,Add,Equity,USD Partners LP
+transaction,Add,Equity,TCF Financial Corporation
+transaction,Add,Equity,Synthetic Fixed-Income Securities, Inc.
+transaction,Add,Equity,Opower, Inc.
+transaction,Add,Equity,Lehman ABS Corporation
+transaction,Add,Equity,Merrill Lynch & Co., Inc.
+transaction,Add,Equity,CNO Financial Group, Inc.
+transaction,Add,Equity,Independence Holding Company
+transaction,Add,Equity,Canadian Pacific Railway Limited
+transaction,Add,Equity,Triple-S Management Corporation
+transaction,Add,Equity,CIT Group Inc (DEL)
+transaction,Add,Equity,Zendesk, Inc.
+transaction,Add,Equity,Cambrex Corporation
+transaction,Add,Equity,Wells Fargo & Company
+transaction,Add,Equity,RCS CAPITAL CORPORATION
+transaction,Add,Equity,First BanCorp.
+transaction,Add,Equity,Goldman Sachs Group, Inc. (The)
+transaction,Add,Equity,Marin Software Incorporated
+transaction,Add,Equity,United Continental Holdings, Inc.
+transaction,Add,Equity,Textainer Group Holdings Limited
+transaction,Add,Equity,First Marblehead Corporation (The)
+transaction,Add,Equity,Citigroup Inc.
+transaction,Add,Equity,United Microelectronics Corporation
+transaction,Add,Equity,Stonegate Mortgage Corporation
+transaction,Add,Equity,Itau Unibanco Banco Holding SA
+transaction,Add,Equity,NorthStar Asset Management Group, Inc.
+transaction,Add,Equity,American Financial Group, Inc.
+transaction,Add,Equity,Deutsche Bank AG
+transaction,Add,Equity,C1 Financial, Inc.
+transaction,Add,Equity,Citizens Financial Group, Inc.
+transaction,Add,Equity,Gazit-Globe Ltd.
+transaction,Add,Equity,ICICI Bank Limited
+transaction,Add,Equity,ING Group, N.V.
+transaction,Add,Equity,W.R. Berkley Corporation
+transaction,Add,Equity,Zimmer Biomet Holdings, Inc.
+transaction,Add,Equity,Horace Mann Educators Corporation
+transaction,Add,Equity,Model N, Inc.
+transaction,Add,Equity,Cantel Medical Corp.
+transaction,Add,Equity,King Digital Entertainment plc
+transaction,Add,Equity,Bank of Hawaii Corporation
+transaction,Add,Equity,United Parcel Service, Inc.
+transaction,Add,Equity,Select Medical Holdings Corporation
+transaction,Add,Equity,Aspen Insurance Holdings Limited
+transaction,Add,Equity,Laboratory Corporation of America Holdings
+transaction,Add,Equity,Textura Corporation
+transaction,Add,Equity,Intrexon Corporation
+transaction,Add,Equity,Arlington Asset Investment Corp
+transaction,Add,Equity,PrivateBancorp, Inc.
+transaction,Add,Equity,Citigroup Inc.
+transaction,Add,Equity,Capital Senior Living Corporation
+transaction,Add,Equity,DaVita healthCare Partners Inc.
+transaction,Add,Equity,ProAssurance Corporation
+transaction,Add,Equity,Och-Ziff Capital Management Group LLC
+transaction,Add,Equity,Teleflex Incorporated
+transaction,Add,Equity,Barclays PLC
+transaction,Add,Equity,Bank of America Corporation
+transaction,Add,Equity,Arlington Asset Investment Corp
+transaction,Add,Equity,Novo Nordisk A/S
+transaction,Add,Equity,Workday, Inc.
+transaction,Add,Equity,Progressive Corporation (The)
+transaction,Add,Equity,SYNTHETIC FIXED INCOME SECURITIES INC
+transaction,Add,Equity,EverBank Financial Corp.
+transaction,Add,Equity,Euronav NV
+transaction,Add,Equity,Computer Sciences Corporation
+transaction,Add,Equity,Santander Consumer USA Holdings Inc.
+transaction,Add,Equity,General Electric Capital Corporation
+transaction,Add,Equity,StarTek, Inc.
+transaction,Add,Equity,Eaton Corporation, PLC
+transaction,Add,Equity,CABCO Series 2004-101 Trust
+transaction,Add,Equity,Aegon NV
+transaction,Add,Equity,Civitas Solutions, Inc.
+transaction,Add,Equity,DST Systems, Inc.
+transaction,Add,Equity,Altisource Residential Corporation
+transaction,Add,Equity,Halyard Health, Inc.
+transaction,Add,Equity,Swift Transportation Company
+transaction,Add,Equity,Banco Santander Chile
+transaction,Add,Equity,Reinsurance Group of America, Incorporated
+transaction,Add,Equity,Luxottica Group, S.p.A.
+transaction,Add,Equity,Valley National Bancorp
+transaction,Add,Equity,Banco Bilbao Viscaya Argentaria S.A.
+transaction,Add,Equity,Oaktree Capital Group, LLC
+transaction,Add,Equity,State Street Corporation
+transaction,Add,Equity,CVS Health Corporation
+transaction,Add,Equity,Selective Insurance Group, Inc.
+transaction,Add,Equity,Legg Mason, Inc.
+transaction,Add,Equity,China Southern Airlines Company Limited
+transaction,Add,Equity,Invesco Plc
+transaction,Add,Equity,Green Dot Corporation
+transaction,Add,Equity,Bank Of Montreal
+transaction,Add,Equity,Radian Group Inc.
+transaction,Add,Equity,Arista Networks, Inc.
+transaction,Add,Equity,Sparton Corporation
+transaction,Add,Equity,Banco Santander, S.A.
+transaction,Add,Equity,Seaspan Corporation
+transaction,Add,Equity,The Hanover Insurance Group, Inc.
+transaction,Add,Equity,SYNTHETIC FIXED INCOME SECURITIES INC
+transaction,Add,Equity,BanColombia S.A.
+transaction,Add,Equity,J P Morgan Chase & Co
+transaction,Add,Equity,Banco Santander Brasil SA
+transaction,Add,Equity,Jabil Circuit, Inc.
+transaction,Add,Equity,American International Group, Inc.
+transaction,Add,Equity,China Life Insurance Company Limited
+transaction,Add,Equity,Raymond James Financial, Inc.
+transaction,Add,Equity,Morgan Stanley
+transaction,Add,Equity,NeoPhotonics Corporation
+transaction,Add,Equity,Kadant Inc
+transaction,Add,Equity,Omnicom Group Inc.
+transaction,Add,Equity,Insperity, Inc.
+transaction,Add,Equity,Fleetmatics Group PLC
+transaction,Add,Equity,Royal Bank Scotland plc (The)
+transaction,Add,Equity,Preferred Plus Trust Ser QWS 2 Tr Ctf
+transaction,Add,Equity,American Financial Group, Inc.
+transaction,Add,Equity,Haemonetics Corporation
+transaction,Add,Equity,Ingram Micro Inc.
+transaction,Add,Equity,Regions Financial Corporation
+transaction,Add,Equity,Enova International, Inc.
+transaction,Add,Equity,Corporate Asset Backed Corp CABCO
+transaction,Add,Equity,Deutsche Bank AG
+transaction,Add,Equity,Genworth Financial Inc
+transaction,Add,Equity,HCA Holdings, Inc.
+transaction,Add,Equity,Cooper Companies, Inc. (The)
+transaction,Add,Equity,Quintiles Transitional Holdings Inc.
+transaction,Add,Equity,Wipro Limited
+transaction,Add,Equity,Assurant, Inc.
+transaction,Add,Equity,Banco Bradesco Sa
+transaction,Add,Equity,Cigna Corporation
+transaction,Add,Equity,Associated Banc-Corp
+transaction,Add,Equity,Avianca Holdings S.A.
+transaction,Add,Equity,Nu Skin Enterprises, Inc.
+transaction,Add,Equity,Millennial Media, Inc.
+transaction,Add,Equity,Lazard Ltd.
+transaction,Add,Equity,EndoChoice Holdings, Inc.
+transaction,Add,Equity,Teradata Corporation
+transaction,Add,Equity,Brink&#39;s Company (The)
+transaction,Add,Equity,Moody&#39;s Corporation
+transaction,Add,Equity,Castlight Health, inc.
+transaction,Add,Equity,F.N.B. Corporation
+transaction,Add,Equity,Federal Agricultural Mortgage Corporation
+transaction,Add,Equity,Pentair plc.
+transaction,Add,Equity,PennyMac Financial Services, Inc.
+transaction,Add,Equity,GAIN Capital Holdings, Inc.
+transaction,Add,Equity,Allied World Assurance Company Holdings, AG
+transaction,Add,Equity,Evercore Partners Inc
+transaction,Add,Equity,J.G. Wentworth Company (The)
+transaction,Add,Equity,Primerica, Inc.
+transaction,Add,Equity,Astrazeneca PLC
+transaction,Add,Equity,Johnson & Johnson
+transaction,Add,Equity,Union Pacific Corporation
+transaction,Add,Equity,Raymond James Financial, Inc.
+transaction,Add,Equity,Patriot National, Inc.
+transaction,Add,Equity,Pzena Investment Management Inc
+transaction,Add,Equity,Everest Re Group, Ltd.
+transaction,Add,Equity,Mindray Medical International Limited
+transaction,Add,Equity,National Bank of Greece SA
+transaction,Add,Equity,Maui Land & Pineapple Company, Inc.
+transaction,Add,Equity,Corpbanca
+transaction,Add,Equity,Prudential Financial, Inc.
+transaction,Add,Equity,Trina Solar Limited
+transaction,Add,Equity,Envision Healthcare Holdings, Inc.
+transaction,Add,Equity,Synnex Corporation
+transaction,Add,Equity,Marriot Vacations Worldwide Corporation
+transaction,Add,Equity,The Travelers Companies, Inc.
+transaction,Add,Equity,KKR Financial Holdings LLC
+transaction,Add,Equity,Shinhan Financial Group Co Ltd
+transaction,Add,Equity,Arthur J. Gallagher & Co.
+transaction,Add,Equity,Yingli Green Energy Holding Company Limited
+transaction,Add,Equity,Guidewire Software, Inc.
+transaction,Add,Equity,Emergent Capital, Inc.
+transaction,Add,Equity,Lehman ABS Corporation
+transaction,Add,Equity,Nomura Holdings Inc ADR
+transaction,Add,Equity,Royal Bank Scotland plc (The)
+transaction,Add,Equity,Arlington Asset Investment Corp
+transaction,Add,Equity,RE/MAX Holdings, Inc.
+transaction,Add,Equity,Hartford Financial Services Group, Inc. (The)
+transaction,Add,Equity,Navigator Holdings Ltd.
+transaction,Add,Equity,Cheetah Mobile Inc.
+transaction,Add,Equity,Vmware, Inc.
+transaction,Add,Equity,Aegon NV
+transaction,Add,Equity,China Eastern Airlines Corporation Ltd.
+transaction,Add,Equity,Morgan Stanley
+transaction,Add,Equity,Centene Corporation
+transaction,Add,Equity,Houlihan Lokey, Inc.
+transaction,Add,Equity,Capital One Financial Corporation
+transaction,Add,Equity,Lehman ABS Corporation
+transaction,Add,Equity,Cohn & Steers Inc
+transaction,Add,Equity,Intercontinental Exchange Inc.
+transaction,Add,Equity,Yadkin Financial Corporation
+transaction,Add,Equity,CHC Group Ltd.
+transaction,Add,Equity,Danaos Corporation
+transaction,Add,Equity,Manulife Financial Corp
+transaction,Add,Equity,Aetna Inc.
+transaction,Add,Equity,New York Community Bancorp, Inc.
+transaction,Add,Equity,Costamare Inc.
+transaction,Add,Equity,Maiden Holdings, Ltd.
+transaction,Add,Equity,Terreno Realty Corporation
+transaction,Add,Equity,Sanofi
+transaction,Add,Equity,Interpublic Group of Companies, Inc. (The)
+transaction,Add,Equity,Infosys Limited
+transaction,Add,Equity,Select Asset Inc.
+transaction,Add,Equity,SunTrust Banks, Inc.
+transaction,Add,Equity,Enzo Biochem, Inc.
+transaction,Add,Equity,Fortress Investment Group LLC
+transaction,Add,Equity,Brookfield Property Partners L.P.
+transaction,Add,Equity,Great Western Bancorp, Inc.
+transaction,Add,Equity,Genesee & Wyoming, Inc.
+transaction,Add,Equity,Lehman ABS Corporation
+transaction,Add,Equity,Kennedy-Wilson Holdings Inc.
+transaction,Add,Equity,Banc of California, Inc.
+transaction,Add,Equity,Xactly Corporation
+transaction,Add,Equity,Fidelity National Financial, Inc.
+transaction,Add,Equity,Korn/Ferry International
+transaction,Add,Equity,DAQO New Energy Corp.
+transaction,Add,Equity,Fidelity National Financial, Inc.
+transaction,Add,Equity,Diplomat Pharmacy, Inc.
+transaction,Add,Equity,3D Systems Corporation
+transaction,Add,Equity,J P Morgan Chase & Co
+transaction,Add,Equity,Ares Management L.P.
+transaction,Add,Equity,Team Health Holdings, Inc.
+transaction,Add,Equity,Gol Linhas Aereas Inteligentes S.A.
+transaction,Add,Equity,Teva Pharmaceutical Industries Limited
+transaction,Add,Equity,Alleghany Corporation
+transaction,Add,Equity,Lehman ABS Corporation
+transaction,Add,Equity,InvenSense, Inc.
+transaction,Add,Equity,Amber Road, Inc.
+transaction,Add,Equity,Autohome Inc.
+transaction,Add,Equity,TAL International Group, Inc.
+transaction,Add,Equity,Scorpio Tankers Inc.
+transaction,Add,Equity,ServiceNow, Inc.
+transaction,Add,Equity,PNC Financial Services Group, Inc. (The)
+transaction,Add,Equity,Equifax, Inc.
+transaction,Add,Equity,Comerica Incorporated
+transaction,Add,Equity,Pfizer, Inc.
+transaction,Add,Equity,Prudential Financial, Inc.
+transaction,Add,Equity,Kemper Corporation
+transaction,Add,Equity,Harte-Hanks, Inc.
+transaction,Add,Equity,Ringcentral, Inc.
+transaction,Add,Equity,Shutterstock, Inc.
+transaction,Add,Equity,Banco Bradesco Sa
+transaction,Add,Equity,Tyler Technologies, Inc.
+transaction,Add,Equity,BlackRock, Inc.
+transaction,Add,Equity,Federated Investors, Inc.
+transaction,Add,Equity,ExamWorks Group, Inc.
+transaction,Add,Equity,Affiliated Managers Group, Inc.
+transaction,Add,Equity,OM Asset Management plc
+transaction,Add,Equity,Scorpio Tankers Inc.
+transaction,Add,Equity,TrueBlue, Inc.
+transaction,Add,Equity,Noah Holdings Ltd.
+transaction,Add,Equity,U.S. Physical Therapy, Inc.
+transaction,Add,Equity,Kingsway Financial Services, Inc.
+transaction,Add,Equity,Nevro Corp.
+transaction,Add,Equity,Bank of America Corporation
+transaction,Add,Equity,Brookdale Senior Living Inc.
+transaction,Add,Equity,Dupont Fabros Technology, Inc.
+transaction,Add,Equity,BankUnited, Inc.
+transaction,Add,Equity,Dorian LPG Ltd.
+transaction,Add,Equity,Bank Of New York Mellon Corporation (The)
+transaction,Add,Equity,Silver Spring Networks, Inc.
+transaction,Add,Equity,SCIENCE APPLICATIONS INTERNATIONAL CORPORATION
+transaction,Add,Equity,Robert Half International Inc.
+transaction,Add,Equity,Diana Shipping inc.
+transaction,Add,Equity,Goldman Sachs Group, Inc. (The)
+transaction,Add,Equity,Air Lease Corporation
+transaction,Add,Equity,Neff Corporation
+transaction,Add,Equity,National Bank Holdings Corporation
+transaction,Add,Equity,KKR & Co. L.P.
+transaction,Add,Equity,LATAM Airlines Group S.A.
+transaction,Add,Equity,Nationstar Mortgage Holdings Inc.
+transaction,Add,Equity,Owens & Minor, Inc.
+transaction,Add,Equity,Varian Medical Systems, Inc.
+transaction,Add,Equity,OFG Bancorp
+transaction,Add,Equity,First Horizon National Corporation
+transaction,Add,Equity,Community Bank System, Inc.
+transaction,Add,Equity,Toronto Dominion Bank (The)
+transaction,Add,Equity,LinkedIn Corporation
+transaction,Add,Equity,Ladder Capital Corp
+transaction,Add,Equity,Quantum Corporation
+transaction,Add,Equity,ManpowerGroup
+transaction,Add,Equity,Morgan Stanley
+transaction,Add,Equity,Prudential Financial, Inc.
+transaction,Add,Equity,Artisan Partners Asset Management Inc.
+transaction,Add,Equity,China Cord Blood Corporation
+transaction,Add,Equity,UNIVERSAL INSURANCE HOLDINGS INC
+transaction,Add,Equity,Solarwinds, Inc.
+transaction,Add,Equity,Perrigo Company
+transaction,Add,Equity,PHH Corp
+transaction,Add,Equity,Eaton Vance Corporation
+transaction,Add,Equity,Merrill Lynch & Co., Inc.
+transaction,Add,Equity,Becton, Dickinson and Company
+transaction,Add,Equity,AmTrust Financial Services, Inc.
+transaction,Add,Equity,Curtiss-Wright Corporation
+transaction,Add,Equity,Knight Transportation, Inc.
+transaction,Add,Equity,Community Health Systems, Inc.
+transaction,Add,Equity,JinkoSolar Holding Company Limited
+transaction,Add,Equity,Aflac Incorporated
+transaction,Add,Equity,CNA Financial Corporation
+transaction,Add,Equity,Morgan Stanley
+transaction,Add,Equity,StanCorp Financial Group, Inc.
+transaction,Add,Equity,Reinsurance Group of America, Incorporated
+transaction,Add,Equity,CryoLife, Inc.
+transaction,Add,Equity,Nordic American Offshore Ltd
+transaction,Add,Equity,J P Morgan Chase & Co
+transaction,Add,Equity,RealD Inc
+transaction,Add,Equity,Emergent Biosolutions, Inc.
+transaction,Add,Equity,Concord Medical Services Holdings Limited
+transaction,Add,Equity,CABCO Series 2004-101 Trust
+transaction,Add,Equity,SunEdison, Inc.
+transaction,Add,Equity,Norfolk Souther Corporation
+transaction,Add,Equity,Zions Bancorporation
+transaction,Add,Equity,CTS Corporation
+transaction,Add,Equity,China Nepstar Chain Drugstore Ltd
+transaction,Add,Equity,Taro Pharmaceutical Industries Ltd.
+transaction,Add,Equity,Sumitomo Mitsui Financial Group Inc
+transaction,Add,Equity,Fresenius Medical Care Corporation
+transaction,Add,Equity,Adeptus Health Inc.
+transaction,Add,Equity,Tejon Ranch Co
+transaction,Add,Equity,Moelis & Company
+transaction,Add,Equity,American Equity Investment Life Holding Company
+transaction,Add,Equity,Illinois Tool Works Inc.
+transaction,Add,Equity,Safeguard Scientifics, Inc.
+transaction,Add,Equity,FBL Financial Group, Inc.
+transaction,Add,Equity,TD Ameritrade Holding Corporation
+transaction,Add,Equity,MS Structured Asset Corp Saturns GE Cap Corp Series 2002-14
+transaction,Add,Equity,Westpac Banking Corporation
+transaction,Add,Equity,Baxter International Inc.
+transaction,Add,Equity,Convergys Corporation
+transaction,Add,Equity,Goldman Sachs Group, Inc. (The)
+transaction,Add,Equity,Ellie Mae, Inc.
+transaction,Add,Equity,Actuant Corporation
+transaction,Add,Equity,Tremor Video, Inc.
+transaction,Add,Equity,Dolby Laboratories
+transaction,Add,Equity,YuMe, Inc.
+transaction,Add,Equity,Renesola Ltd.
+transaction,Add,Equity,Westwood Holdings Group Inc
+transaction,Add,Equity,DEMANDWARE, INC.
+transaction,Add,Equity,RenaissanceRe Holdings Ltd.
+transaction,Add,Equity,KB Financial Group Inc
+transaction,Add,Equity,Hartford Financial Services Group, Inc. (The)
+transaction,Add,Equity,Humana Inc.
+transaction,Add,Equity,Unisys Corporation
+transaction,Add,Equity,UnitedHealth Group Incorporated
+transaction,Add,Equity,General Electric Capital Corporation
+transaction,Add,Equity,Maiden Holdings, Ltd.
+transaction,Add,Equity,Navios Maritime Acquisition Corporation
+transaction,Add,Equity,UBS AG
+transaction,Add,Equity,Piper Jaffray Companies
+transaction,Add,Equity,Royal Bank Scotland plc (The)
+transaction,Add,Equity,Twenty-First Century Fox, Inc.
+transaction,Add Shares,Equity,Twenty-First Century Fox, Inc.
+transaction,Add Shares,Equity,Twenty-First Century Fox, Inc.
+transaction,Add,Equity,Akamai Technologies, Inc.

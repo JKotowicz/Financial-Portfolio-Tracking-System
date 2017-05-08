@@ -1,0 +1,27 @@
+equity,27,FOXA,9018.0,Twenty-First Century Fox Inc.,NASDAQ100
+equity,2,FOX,44.0,Twenty-First Century Fox Inc.,DOW
+equity,3,CLGX,99.0,CoreLogic Inc.,TECHNOLOGY
+equity,24,RLGY,576.0,Realogy Holdings Corp.,FINANCE
+cashacc,111223.0,account1
+cashacc,23.0,num2
+cashacc,33.0,d3
+transaction,CASHACCOUNT,account1,0.0,2016/04/14 23:51:21
+transaction,CASHACCOUNT,num2,0.0,2016/04/14 23:51:31
+transaction,CASHACCOUNT,d3,0.0,2016/04/14 23:51:44
+transaction,EQUITY,Twenty-First Century Fox Inc.,0.0,2016/04/14 23:49:23
+transaction,EQUITY,Twenty-First Century Fox Inc.,0.0,2016/04/14 23:50:00
+transaction,EQUITY,CoreLogic Inc.,0.0,2016/04/14 23:50:39
+transaction,EQUITY,Realogy Holdings Corp.,0.0,2016/04/14 23:51:07
+transaction,EQUITY,Twenty-First Century Fox Inc.,0.0,2016/04/14 23:52:24
+transaction,EQUITY,Twenty-First Century Fox Inc.,0.0,2016/04/14 23:52:24
+transaction,EQUITY,CoreLogic Inc.,0.0,2016/04/14 23:52:24
+transaction,EQUITY,Realogy Holdings Corp.,0.0,2016/04/14 23:52:24
+watchlistItem,ADBE,33,334
+watchlistItem,ALXN,7777,777777
+watchlistItem,AMGN,1,2
+marketAverage,NASDAQ100,27,106.92
+marketAverage,TECHNOLOGY,3,33.31
+marketAverage,HEALTH CARE,0,66.52
+marketAverage,DOW],2,559.36
+marketAverage,TRANSPORTATION,0,32.42
+marketAverage,FINANCE,24,39.97
